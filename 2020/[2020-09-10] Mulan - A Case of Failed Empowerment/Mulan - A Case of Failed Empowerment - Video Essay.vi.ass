@@ -10,30 +10,21 @@ PlayResX: 1280
 PlayResY: 720
 
 [Aegisub Project Garbage]
-Last Style Storage: Youtube
-Audio File: Mulan - A Case of Failed Empowerment - Video Essay.mp4
-Video File: Mulan - A Case of Failed Empowerment - Video Essay.mp4
-Video AR Mode: 4
-Video AR Value: 1.777778
-Video Zoom Percent: 0.750000
-Scroll Position: 363
-Active Line: 369
-Video Position: 19119
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Roboto,38,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,3,2,2,2,10,10,10,1
-Style: Overlay,Roboto,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,5,10,10,10,1
+Style: Default,Roboto,38,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Overlay,Roboto,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.09,0:00:02.62,Default,,0,0,0,,Video này được tài trợ bởi
 Dialogue: 0,0:00:02.62,0:00:03.62,Default,,0,0,0,,Skillshare
-Dialogue: 0,0:00:07.12,0:00:10.92,Default,,0,0,0,,"Cặp thỏ kề nhau mà chạy\NSao thể phân biệt ta là đực cái"
+Dialogue: 0,0:00:07.12,0:00:10.92,Default,,0,0,0,,"Cặp thỏ kề nhau chạy\NSao thể phân biệt ta là đực cái"
 Dialogue: 0,0:00:10.92,0:00:13.36,Default,,0,0,0,,Tôi quả thật khó mà giải thích được
 Dialogue: 0,0:00:13.36,0:00:16.68,Default,,0,0,0,,tầm quan trọng của Hoa Mộc Lan đối với tôi
 Dialogue: 0,0:00:16.68,0:00:19.11,Default,,0,0,0,,và đối với từng mỗi\Nngười dân Trung Quốc thế nào
-Dialogue: 0,0:00:19.80,0:00:23.68,Default,,0,0,0,,Mộc Lan Từ là bài học bắt buộc\Ncủa cấp tiểu học Trung Quốc
+Dialogue: 0,0:00:19.80,0:00:23.68,Default,,0,0,0,,{\i1}Mộc Lan Từ{\i0} là bài học bắt buộc\Ncủa cấp tiểu học Trung Quốc
 Dialogue: 0,0:00:23.68,0:00:26.27,Default,,0,0,0,,và cũng là một áng thơ mà tôi thích nhất
 Dialogue: 0,0:00:26.27,0:00:28.07,Default,,0,0,0,,và từng có khi nào đó
 Dialogue: 0,0:00:28.07,0:00:31.25,Default,,0,0,0,,tôi còn có thể\Nđọc thuộc làu cả áng thơ này
@@ -44,13 +35,13 @@ Dialogue: 0,0:00:38.00,0:00:40.83,Default,,0,0,0,,không biết có bao nhiêu\N
 Dialogue: 0,0:00:40.83,0:00:43.93,Default,,0,0,0,,có địa vị quan trọng đến vậy\Ntrong văn hóa một dân tộc
 Dialogue: 0,0:00:45.08,0:00:46.59,Default,,0,0,0,,Vào thập niên 90
 Dialogue: 0,0:00:46.59,0:00:50.19,Default,,0,0,0,,Trung Quốc nội địa bắt đầu\Ndu nhập phim hoạt hình Disney
-Dialogue: 0,0:00:50.19,0:00:52.46,Default,,0,0,0,,Không lâu sau khi tôi xem Vua Sư Tử xong
+Dialogue: 0,0:00:50.19,0:00:52.46,Default,,0,0,0,,Không lâu sau khi tôi xem {\i1}Vua Sư Tử{\i0} xong
 Dialogue: 0,0:00:52.46,0:00:56.06,Default,,0,0,0,,thì tôi có hay tin Disney\Nđang chế tác một phim Hoa Mộc Lan
 Dialogue: 0,0:01:00.92,0:01:04.51,Default,,0,0,0,,Khi đó, hoạt hình Trung Quốc\Nhãy còn thô thiển
 Dialogue: 0,0:01:04.54,0:01:08.72,Default,,0,0,0,,nên có dịp xem được hoạt hình\Nvề Hoa Mộc Lan thì tôi háo hức lắm
 Dialogue: 0,0:01:09.84,0:01:12.11,Default,,0,0,0,,Vào xuân năm 1999
 Dialogue: 0,0:01:12.11,0:01:15.24,Default,,0,0,0,,trong chuyến đi dã ngoại hồi tiểu học,\Nchúng tôi có đi rạp phim
-Dialogue: 0,0:01:15.24,0:01:16.71,Default,,0,0,0,,và được xem Hoa Mộc Lan
+Dialogue: 0,0:01:15.24,0:01:16.71,Default,,0,0,0,,và được xem {\i1}Hoa Mộc Lan{\i0}
 Dialogue: 0,0:01:16.71,0:01:21.03,Default,,0,0,0,,Tôi tưởng rằng đó chỉ là hí khúc cũ\Ncủa thập niên 60 hay gì thôi
 Dialogue: 0,0:01:21.36,0:01:22.55,Default,,0,0,0,,Nhưng thật không ngờ
 Dialogue: 0,0:01:22.55,0:01:25.85,Default,,0,0,0,,trên màn phông lớn\Nxuất hiện lâu đài của Disney
@@ -92,11 +83,11 @@ Dialogue: 0,0:03:13.69,0:03:16.24,Default,,0,0,0,,giờ đây họ đang đấu 
 Dialogue: 0,0:03:16.59,0:03:19.80,Default,,0,0,0,,Đây quả là thời khắc hoàn hảo\Ncho một thế hệ Hoa Mộc Lan mới
 Dialogue: 0,0:03:19.80,0:03:21.46,Default,,0,0,0,,để cổ vũ lòng người
 Dialogue: 0,0:03:22.01,0:03:23.96,Default,,0,0,0,,Thế mà các ngươi làm nó c*t vl!
-Dialogue: 0,0:03:25.44,0:03:28.02,Default,,0,0,0,,MỘC LAN\NÁN LỆ VỀ NIỀM KHÍCH LỆ BẤT THÀNH
+Dialogue: 0,0:03:25.44,0:03:28.02,Default,,0,0,0,,HOA MỘC LAN\NÁN LỆ VỀ NIỀM KHÍCH LỆ BẤT THÀNH
 Dialogue: 0,0:03:28.02,0:03:29.10,Default,,0,0,0,,CHƯƠNG 1
-Dialogue: 0,0:03:29.10,0:03:31.98,Default,,0,0,0,,Để hiểu rõ Hoa Mộc Lan người đóng\Nthất bại ở chỗ nào
-Dialogue: 0,0:03:31.98,0:03:35.70,Default,,0,0,0,,trước tiên chúng ta phải xem\NHoa Mộc Lan 1998 thành công ở chỗ nào
-Dialogue: 0,0:03:35.70,0:03:40.26,Default,,0,0,0,,Hoa Mộc Lan có bối cảnh ở giai đoạn\Nkhông cụ thể thời cổ đại Trung Quốc
+Dialogue: 0,0:03:29.10,0:03:31.98,Default,,0,0,0,,Để hiểu rõ {\i1}Hoa Mộc Lan{\i0} người đóng\Nthất bại ở chỗ nào
+Dialogue: 0,0:03:31.98,0:03:35.70,Default,,0,0,0,,trước tiên chúng ta phải xem\N{\i1}Hoa Mộc Lan{\i0} 1998 thành công ở chỗ nào
+Dialogue: 0,0:03:35.70,0:03:40.26,Default,,0,0,0,,{\i1}Hoa Mộc Lan{\i0} có bối cảnh ở giai đoạn\Nkhông cụ thể thời cổ đại Trung Quốc
 Dialogue: 0,0:03:40.26,0:03:43.14,Default,,0,0,0,,thời đại này,\Nphụ nữ mà muốn làm rạng rỡ tổ tông
 Dialogue: 0,0:03:43.14,0:03:46.01,Default,,0,0,0,,thì con đường duy nhất\Nchính là lấy chồng và sinh con
 Dialogue: 0,0:03:46.01,0:03:48.72,Default,,0,0,0,,mà đây lại là điều mà Mộc Lan rất tệ hại
@@ -185,7 +176,7 @@ Dialogue: 0,0:07:57.51,0:08:00.36,Default,,0,0,0,,phá vỡ mối quan hệ ph�
 Dialogue: 0,0:08:01.06,0:08:03.31,Default,,0,0,0,,chỉ còn lại tình yêu cha con\Nđậm tính người
 Dialogue: 0,0:08:03.73,0:08:07.13,Default,,0,0,0,,THÔNG ĐIỆP TÀI TRỢ
 Dialogue: 0,0:08:07.13,0:08:08.36,Default,,0,0,0,,Thay vì rồng Mộc Tu
-Dialogue: 0,0:08:08.36,0:08:12.14,Default,,0,0,0,,Mộc Lan 2020 cho vào một con phượng hoàng\Nất ơ chả biết để làm quái gì
+Dialogue: 0,0:08:08.36,0:08:12.14,Default,,0,0,0,,{\i1}Mộc Lan{\i0} 2020 cho vào một con phượng hoàng\Nất ơ chả biết để làm quái gì
 Dialogue: 0,0:08:12.14,0:08:14.62,Default,,0,0,0,,còn CGI thì trông cực kì rẻ rách
 Dialogue: 0,0:08:14.62,0:08:16.33,Default,,0,0,0,,Có lẽ phim đã không ra nông nỗi nào đâu
 Dialogue: 0,0:08:16.33,0:08:19.32,Default,,0,0,0,,nếu các nhà hoạt họa có tham gia Skillshare
@@ -208,7 +199,7 @@ Dialogue: 0,0:08:59.68,0:09:01.36,Default,,0,0,0,,Khai phá óc sáng tạo củ
 Dialogue: 0,0:09:01.36,0:09:02.55,Default,,0,0,0,,Trau dồi kỹ năng của mình
 Dialogue: 0,0:09:02.55,0:09:04.66,Default,,0,0,0,,Hãy thử Skillshare ngay hôm nay đi!
 Dialogue: 0,0:09:05.02,0:09:08.51,Default,,0,0,0,,CHƯƠNG 2
-Dialogue: 0,0:09:08.51,0:09:13.24,Default,,0,0,0,,Thôi tiếp, cốt truyện của Mộc Lan 2020\Nvề cơ bản là tương tự với bản hoạt hình
+Dialogue: 0,0:09:08.51,0:09:13.24,Default,,0,0,0,,Thôi tiếp, cốt truyện của {\i1}Mộc Lan{\i0} 2020\Nvề cơ bản là tương tự với bản hoạt hình
 Dialogue: 0,0:09:13.24,0:09:15.10,Default,,0,0,0,,Mộc Lan làm cô dâu chẳng xong
 Dialogue: 0,0:09:15.10,0:09:16.86,Default,,0,0,0,,Trung Quốc kêu gọi binh sĩ
 Dialogue: 0,0:09:16.86,0:09:18.57,Default,,0,0,0,,người cha tuổi tác quá cao
@@ -227,7 +218,7 @@ Dialogue: 0,0:09:49.35,0:09:52.52,Default,,0,0,0,,Ừ thì ở cuối phim cô �
 Dialogue: 0,0:09:52.89,0:09:54.04,Default,,0,0,0,,"Em được mai rồi."
 Dialogue: 0,0:09:54.04,0:09:56.21,Default,,0,0,0,,Tưởng tượng xem nào, bạn là một cô gái trẻ
 Dialogue: 0,0:09:56.21,0:09:58.25,Default,,0,0,0,,không có niềm tự tin bản thân
-Dialogue: 0,0:09:58.25,0:10:00.52,Default,,0,0,0,,bạn có xem Mộc Lan 2020
+Dialogue: 0,0:09:58.25,0:10:00.52,Default,,0,0,0,,bạn có xem {\i1}Mộc Lan{\i0} 2020
 Dialogue: 0,0:10:00.52,0:10:01.93,Default,,0,0,0,,rồi bạn quay lại trường học
 Dialogue: 0,0:10:01.93,0:10:04.70,Default,,0,0,0,,thấy những cô gái khác xinh đẹp hơn bạn
 Dialogue: 0,0:10:04.70,0:10:06.76,Default,,0,0,0,,chơi thể thao giỏi hơn bạn
@@ -296,7 +287,7 @@ Dialogue: 0,0:13:05.23,0:13:08.19,Default,,0,0,0,,đã bị người Trung Quố
 Dialogue: 0,0:13:08.19,0:13:09.49,Default,,0,0,0,,Chúng tôi có từ cho nó luôn!
 Dialogue: 0,0:13:09.49,0:13:11.46,Default,,0,0,0,,"Cái đức hạnh thứ tư này là gì vậy?"
 Dialogue: 0,0:13:11.46,0:13:13.40,Default,,0,0,0,,"Đọc rõ lên đi, Mộc Lan."
-Dialogue: 0,0:13:14.67,0:13:16.09,Default,,0,0,0,,"hết lòng với gia đình"
+Dialogue: 0,0:13:14.67,0:13:16.09,Default,,0,0,0,,"Hết lòng với gia đình"
 Dialogue: 0,0:13:16.09,0:13:17.77,Default,,0,0,0,,Đó gọi là yū fǔ!
 Dialogue: 0,0:13:17.77,0:13:20.03,Default,,0,0,0,,Mộc Lan không chỉ\Nkhông thách thức hiện trạng:
 Dialogue: 0,0:13:20.03,0:13:22.21,Default,,0,0,0,,"Bây giờ về với chính đạo\Nvẫn chưa muộn đâu."
@@ -330,18 +321,18 @@ Dialogue: 0,0:14:33.14,0:14:37.02,Default,,0,0,0,,là cảm thấy e rằng có 
 Dialogue: 0,0:14:37.02,0:14:39.60,Default,,0,0,0,,về điểm đấy, tôi không muốn bình luận lắm
 Dialogue: 0,0:14:39.60,0:14:41.72,Default,,0,0,0,,tại tôi nghĩ chẳng phải tuyên truyền gì đâu
 Dialogue: 0,0:14:41.72,0:14:44.27,Default,,0,0,0,,nếu thế thật thì lại đề cao bộ phim này quá
-Dialogue: 0,0:14:44.27,0:14:47.59,Default,,0,0,0,,Mộc Lan 2020 chẳng có ác ý,\Nchỉ là nó ngớ ngẩn
+Dialogue: 0,0:14:44.27,0:14:47.59,Default,,0,0,0,,{\i1}Mộc Lan{\i0} 2020 chẳng có ác ý,\Nchỉ là nó ngớ ngẩn
 Dialogue: 0,0:14:47.59,0:14:49.77,Default,,0,0,0,,hơn nữa phim chả có cái mẹ gì ra hồn
 Dialogue: 0,0:14:49.77,0:14:53.03,Default,,0,0,0,,nó chỉ mong tỏ ra vẻ\Nđa dạng và bao quát thôi
 Dialogue: 0,0:14:53.03,0:14:54.74,Default,,0,0,0,,Phim có 4 người lên kịch
 Dialogue: 0,0:14:54.74,0:14:56.49,Default,,0,0,0,,chả có ai là người châu Á
 Dialogue: 0,0:14:56.49,0:14:57.98,Default,,0,0,0,,chứ chưa nói có người Trung Quốc
-Dialogue: 0,0:14:57.98,0:15:01.60,Default,,0,0,0,,Thoại trong phim nghe cứ như của\Nmột gã da trắng bị mê ái Trung Quốc vậy:
+Dialogue: 0,0:14:57.98,0:15:01.60,Default,,0,0,0,,Thoại trong phim nghe cứ như của\Nmột gã da trắng có fetish Đông Á ấy:
 Dialogue: 0,0:15:01.60,0:15:04.73,Default,,0,0,0,,"Tôi bảo rồi không thể ăn,\Nkẻo làm hỏng lớp trang điểm mất!"
 Dialogue: 0,0:15:04.73,0:15:07.64,Default,,0,0,0,,"Bão dữ nhất hàn đông\Ncũng không thể phá trang điểm này."
 Dialogue: 0,0:15:07.64,0:15:09.97,Default,,0,0,0,,Nó chỉ muốn ra vẻ cảm động
 Dialogue: 0,0:15:09.97,0:15:11.72,Default,,0,0,0,,Mộc Lan làm cô dâu cũng chẳng xong?
-Dialogue: 0,0:15:11.72,0:15:13.53,Default,,0,0,0,,Không có hát hò phản thân
+Dialogue: 0,0:15:11.72,0:15:13.53,Default,,0,0,0,,Không có cảnh hát {\i1}Phản tư{\i0}
 Dialogue: 0,0:15:13.53,0:15:15.59,Default,,0,0,0,,không có suy ngẫm về thất bại của mình
 Dialogue: 0,0:15:15.59,0:15:17.86,Default,,0,0,0,,không có đối thoại gắn bó cha với con gái
 Dialogue: 0,0:15:17.86,0:15:20.12,Default,,0,0,0,,thời khắc cô bước ra khỏi phòng học
@@ -373,7 +364,7 @@ Dialogue: 0,0:16:37.80,0:16:41.35,Default,,0,0,0,,nhưng thay vào đó là mộ
 Dialogue: 0,0:16:41.72,0:16:44.64,Default,,0,0,0,,không chỗ nào phô trương\Nđáng ghét hơn khúc này
 Dialogue: 0,0:16:44.64,0:16:47.99,Default,,0,0,0,,"Con với Hắc Phong bên ngoài\Ncó thấy hai con thỏ đang chạy kề nhau"
 Dialogue: 0,0:16:47.99,0:16:50.36,Default,,0,0,0,,"Con nghĩ chắc là một đực một cái."
-Dialogue: 0,0:16:50.36,0:16:54.46,Default,,0,0,0,,Câu thoại này của Mộc Lan\Nlà lấy từ phần kết của "Mộc Lan Từ"
+Dialogue: 0,0:16:50.36,0:16:54.46,Default,,0,0,0,,Câu thoại này của Mộc Lan\Nlà lấy từ phần kết của {\i1}Mộc Lan Từ{\i0}
 Dialogue: 0,0:16:54.46,0:16:58.96,Default,,0,0,0,,một trong những áng thơ nổi tiếng nhất,\Nmột trong những câu kết kinh điển nhất
 Dialogue: 0,0:16:58.96,0:17:02.55,Default,,0,0,0,,bị nó biến thành một cảnh\Nbâng quơ fan-service rẻ tiền
 Dialogue: 0,0:17:03.24,0:17:08.04,Default,,0,0,0,,Trong bài từ khúc,\NHoa Mộc Lan tham gia quân đội tận mười năm
@@ -389,11 +380,11 @@ Dialogue: 0,0:17:29.90,0:17:33.99,Default,,0,0,0,,Các chiến hữu lúng túng
 Dialogue: 0,0:17:33.99,0:17:36.66,Default,,0,0,0,,Hoa Mộc Lan đáp rằng:
 Dialogue: 0,0:17:36.66,0:17:39.41,Default,,0,0,0,,"Thỏ đực chân mấp máy"
 Dialogue: 0,0:17:39.72,0:17:43.03,Default,,0,0,0,,"Thỏ cái mắt mê tơi"
-Dialogue: 0,0:17:43.22,0:17:46.03,Default,,0,0,0,,"Đôi thỏ kề nhau mà chạy"
+Dialogue: 0,0:17:43.22,0:17:46.03,Default,,0,0,0,,"Đôi thỏ kề nhau chạy"
 Dialogue: 0,0:17:46.35,0:17:49.12,Default,,0,0,0,,"Sao thể phân biệt ta là đực cái?"
 Dialogue: 0,0:17:49.85,0:17:52.36,Default,,0,0,0,,Ý của Mộc Lan thấm thía xiết bao
 Dialogue: 0,0:17:52.36,0:17:55.15,Default,,0,0,0,,Nam nữ trông có thể khác nhau
 Dialogue: 0,0:17:55.15,0:17:57.43,Default,,0,0,0,,Nhưng khi cùng nhau chung sống
 Dialogue: 0,0:17:57.43,0:17:59.91,Default,,0,0,0,,và khi kề vai chiến đấu
 Dialogue: 0,0:18:00.26,0:18:03.43,Default,,0,0,0,,thì khác biệt nam nữ có còn khác biệt gì?
-Dialogue: 0,0:13:16.60,0:13:17.69,Overlay,,0,0,0,,{\pos(640,545)\fs50}Quanh quẩn với cái cổ hủ
+Dialogue: 0,0:13:16.60,0:13:17.69,Overlay,,0,0,0,,{\pos(640,545)\fs54}Quanh quẩn với cái cổ hủ

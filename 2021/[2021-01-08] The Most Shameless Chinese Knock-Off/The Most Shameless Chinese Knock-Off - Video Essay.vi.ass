@@ -10,20 +10,11 @@ PlayResX: 1280
 PlayResY: 720
 
 [Aegisub Project Garbage]
-Last Style Storage: Default
-Audio File: The Most Shameless Chinese Knock-Off - Video Essay.mp4
-Video File: The Most Shameless Chinese Knock-Off - Video Essay.mp4
-Video AR Mode: 4
-Video AR Value: 1.777778
-Video Zoom Percent: 0.750000
-Scroll Position: 232
-Active Line: 239
-Video Position: 16477
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Tahoma,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
-Style: Left to right,Roboto,48,&H00FFFFFF,&HFF0000FF,&H00000000,&HFF000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Default,Tahoma,38,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Left to right,Roboto,56,&H00FFFFFF,&HFF0000FF,&H00000000,&HFF000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -71,8 +62,8 @@ Dialogue: 0,0:01:51.70,0:01:54.63,Default,,0,0,0,,và ừ, đến sự đón nh�
 Dialogue: 0,0:01:54.63,0:01:58.06,Default,,0,0,0,,Hãy để tôi giúp bạn làm\Ncho ra nhẽ cái thứ kì quặc này xem
 Dialogue: 0,0:01:58.06,0:02:02.27,Default,,0,0,0,,và cũng soi vào khía cạnh văn hóa đại chúng\NTrung Quốc mà bạn ít hay được nghe nói
 Dialogue: 0,0:02:02.66,0:02:06.95,Default,,0,0,0,,Đây là tác phẩm đạo nhái vô sỉ nhất\Nsuốt lịch sử điện ảnh Trung Quốc
-Dialogue: 0,0:02:08.73,0:02:11.31,Default,,0,0,0,,BỘ PHIM HÀNG NHÁI TRUNG QUỐC VÔ SỈ NHẤT
-Dialogue: 0,0:02:11.31,0:02:12.85,Default,,0,0,0,,CHƯƠNG MỘT
+Dialogue: 0,0:02:08.69,0:02:11.31,Default,,0,0,0,,BỘ PHIM HÀNG NHÁI TRUNG QUỐC VÔ SỈ NHẤT
+Dialogue: 0,0:02:11.31,0:02:12.81,Default,,0,0,0,,CHƯƠNG MỘT
 Dialogue: 0,0:02:12.94,0:02:16.20,Default,,0,0,0,,Câu chuyện kể về\Nmột nhân vật 9 tuổi là… kĩ sư?
 Dialogue: 0,0:02:16.20,0:02:20.28,Default,,0,0,0,,Nó muốn chế tạo một chiếc ô-tô thông minh,\Nngầu nhất, bá nhất xưa giờ
 Dialogue: 0,0:02:20.28,0:02:24.18,Default,,0,0,0,,song rốt cuộc lại tạo ra 3 chiếc quái thai,\Nmỗi chiếc đều có khuyết điểm riêng biệt
@@ -141,7 +132,6 @@ Dialogue: 0,0:04:46.78,0:04:48.52,Default,,0,0,0,,Dành cho đạo diễn của 
 Dialogue: 0,0:04:48.52,0:04:53.19,Default,,0,0,0,,tôi khuyên nên theo khóa "Character Design\NCrash Course: Dynamic Design in Four Steps"
 Dialogue: 0,0:04:53.19,0:04:56.60,Default,,0,0,0,,là khóa sơ tâm dạy cho những hoạt hình viên\Nmới vào nghề làm thế nào để…
 Dialogue: 0,0:04:56.60,0:04:57.75,Default,,0,0,0,,*khụ khụ*
-Dialogue: 0,0:04:57.75,0:05:00.89,Left to right,,0,0,0,,{\b1}{\ko91}TỰ MÌNH {\ko84}SÁNG TẠO {\ko26}NHÂN {\ko23}VẬT {\ko90}GỐC!{\b0}
 Dialogue: 0,0:05:01.07,0:05:03.31,Default,,0,0,0,,Các khóa học khác\Nthì có các chủ đề về viết kịch
 Dialogue: 0,0:05:03.31,0:05:03.95,Default,,0,0,0,,biên tập
 Dialogue: 0,0:05:03.95,0:05:04.86,Default,,0,0,0,,biên soạn
@@ -210,8 +200,6 @@ Dialogue: 0,0:08:12.81,0:08:14.94,Default,,0,0,0,,Về cuối thì Disney đã t
 Dialogue: 0,0:08:14.94,0:08:16.40,Default,,0,0,0,,Bất ngờ hay là không?
 Dialogue: 0,0:08:16.40,0:08:21.49,Default,,0,0,0,,Tin này được Mtime, một trong những website\Nphim ảnh lớn nhất Trung Quốc, loan báo
 Dialogue: 0,0:08:21.77,0:08:22.96,Default,,0,0,0,,Tiêu đề tin tức là?
-Dialogue: 0,0:08:22.96,0:08:23.98,Left to right,,0,0,0,,{\b1}"VUI RỘN MỪNG BÁO!"{\b0}
-Dialogue: 0,0:08:23.98,0:08:27.49,Left to right,,0,0,0,,{\b1}{\ko29}"The {\ko69}Autobots {\ko79}Bị Phán {\ko61}Xâm Phạm {\ko113}Bản Quyền"{\b0}
 Dialogue: 0,0:08:27.96,0:08:30.02,Default,,0,0,0,,Drama hay vãi c*t
 Dialogue: 0,0:08:30.02,0:08:31.83,Default,,0,0,0,,CHƯƠNG BA
 Dialogue: 0,0:08:31.83,0:08:33.92,Default,,0,0,0,,Bạn nghe nói về {\i1}Genshin Impact{\i} chưa?
@@ -292,7 +280,7 @@ Dialogue: 0,0:12:47.40,0:12:48.91,Default,,0,0,0,,cũng chẳng có mừng rỡ 
 Dialogue: 0,0:12:48.91,0:12:50.93,Default,,0,0,0,,có người bày tỏ sự nhẹ nhõm
 Dialogue: 0,0:12:50.93,0:12:53.17,Default,,0,0,0,,phần lớn người ta vẫn cứ phẫn nộ
 Dialogue: 0,0:12:53.58,0:12:57.84,Default,,0,0,0,,Và giờ các bạn đã rõ vì sao quan chúng TQ\Nbức xúc bộ phim này đến như vậy rồi đó
-Dialogue: 0,0:12:58.77,0:13:00.99,Default,,0,0,0,,KẾT LUẬN
+Dialogue: 0,0:12:59.23,0:13:00.90,Default,,0,0,0,,KẾT LUẬN
 Dialogue: 0,0:13:01.11,0:13:02.94,Default,,0,0,0,,Tôi ghét {\i1}The Autobots{\i}
 Dialogue: 0,0:13:02.94,0:13:04.82,Default,,0,0,0,,và người Trung Quốc cũng thế
 Dialogue: 0,0:13:04.82,0:13:07.92,Default,,0,0,0,,Bởi vì nó là ví dụ điển hình nhất\Nvề sự mục nát thối rữa
@@ -323,3 +311,6 @@ Dialogue: 0,0:14:27.31,0:14:29.89,Default,,0,0,0,,Trung Quốc có thể tháo b
 Dialogue: 0,0:14:29.89,0:14:34.22,Default,,0,0,0,,và làm ra được những tác phẩm thực sự\Nđược mọi người yêu mến trên khắp thế giới
 Dialogue: 0,0:14:34.22,0:14:36.04,Default,,0,0,0,,Và mong rằng lần tới
 Dialogue: 0,0:14:36.04,0:14:39.37,Default,,0,0,0,,tác phẩm của họ không cần phải núp đằng sau\Nmột cái tên tiếng Nhật nữa
+Dialogue: 0,0:04:57.75,0:05:00.89,Left to right,,0,0,0,,{\k91\b1}TỰ MÌNH {\k84}SÁNG TẠO\N{\k26}NHÂN {\k23}VẬT {\k90}GỐC!{\b0}
+Dialogue: 0,0:08:22.96,0:08:23.98,Left to right,,0,0,0,,{\fs48}"Vui rộn mừng báo!"
+Dialogue: 0,0:08:23.98,0:08:27.49,Left to right,,0,0,0,,{\k29\fs48}"The {\k69}Autobots {\k79}Bị Phán {\k61}Xâm Phạm {\k113}Bản Quyền"

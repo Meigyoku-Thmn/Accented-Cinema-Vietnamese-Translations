@@ -5,14 +5,15 @@ Title: Default Aegisub file
 ScriptType: v4.00+
 WrapStyle: 0
 ScaledBorderAndShadow: yes
-YCbCr Matrix: None
+YCbCr Matrix: TV.709
+PlayResX: 1280
+PlayResY: 720
 
 [Aegisub Project Garbage]
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Tahoma,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
-Style: Segment,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Default,Tahoma,38,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -70,7 +71,7 @@ Dialogue: 0,0:02:54.50,0:02:57.75,Default,,0,0,0,,"Thế là sắp sửa sau nà
 Dialogue: 0,0:02:58.07,0:02:59.74,Default,,0,0,0,,"mới thấy được quốc bảo của Trung Quốc"
 Dialogue: 0,0:02:59.74,0:03:02.58,Default,,0,0,0,,"Vì sao liên quân 8 nước bổ vào Bắc Kinh?"
 Dialogue: 0,0:03:02.94,0:03:07.67,Default,,0,0,0,,Chẳng qua là để xâu xé\Nmiếng thịt Trung Quốc này mà thôi"
-Dialogue: 0,0:03:07.93,0:03:10.41,Default,,0,0,0,,CHƯƠNG 2
+Dialogue: 0,0:03:07.93,0:03:09.84,Default,,0,0,0,,CHƯƠNG 2
 Dialogue: 0,0:03:14.89,0:03:19.06,Default,,0,0,0,,(Công ty Đông Ấn – Thuốc Phiện)
 Dialogue: 0,0:03:19.06,0:03:23.82,Default,,0,0,0,,Bạn thấy đấy, Trung Quốc thời quân chủ\Ncó từng là nạn nhân của chủ nghĩa thực dân
 Dialogue: 0,0:03:25.82,0:03:30.62,Default,,0,0,0,,Nói cực kỳ đơn giản thì vào\Nkhoảng giữa thế kỷ 19, thời kỳ vãn Thanh
@@ -89,7 +90,7 @@ Dialogue: 0,0:04:23.09,0:04:26.55,Default,,0,0,0,,và đương nhiên còn có s
 Dialogue: 0,0:04:27.70,0:04:31.82,Default,,0,0,0,,Cho tới nay, vẫn có thể thấy vết tích chủ\Nnghĩa thực dân ở nhiều thành phố Trung Quốc
 Dialogue: 0,0:04:31.82,0:04:34.63,Default,,0,0,0,,không hiếm thấy\Nnhững cụm kiến trúc phương tây kiểu cổ
 Dialogue: 0,0:04:34.63,0:04:37.25,Default,,0,0,0,,xen lẫn ở giữa thành thị Trung Quốc
-Dialogue: 0,0:04:38.63,0:04:41.21,Default,,0,0,0,,CHƯƠNG 3
+Dialogue: 0,0:04:38.80,0:04:40.76,Default,,0,0,0,,CHƯƠNG 3
 Dialogue: 0,0:04:44.43,0:04:48.08,Default,,0,0,0,,Đấy chính là lý do các phim ái quốc của\NTrung Quốc hay có vai phản diện nước ngoài
 Dialogue: 0,0:04:48.08,0:04:50.62,Default,,0,0,0,,Trong các kinh điển như {\i1}Túy Quyền II{\i}
 Dialogue: 0,0:04:50.62,0:04:54.37,Default,,0,0,0,,thì tư tưởng trung tâm\Nđều xoay quanh một giá trị cốt lõi là:

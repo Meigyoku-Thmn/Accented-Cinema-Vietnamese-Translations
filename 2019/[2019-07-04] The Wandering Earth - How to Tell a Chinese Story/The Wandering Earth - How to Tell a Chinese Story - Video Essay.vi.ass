@@ -10,31 +10,24 @@ PlayResX: 1280
 PlayResY: 720
 
 [Aegisub Project Garbage]
-Last Style Storage: Youtube
-Audio File: The Wandering Earth - How to Tell a Chinese Story - Video Essay.mp4
-Video File: The Wandering Earth - How to Tell a Chinese Story - Video Essay.mp4
-Video AR Mode: 4
-Video AR Value: 1.777778
-Video Zoom Percent: 0.750000
-Video Position: 464
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Roboto,38,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,3,2,2,2,10,10,10,1
-Style: Overlay,Roboto,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,5,10,10,10,1
+Style: Default,Roboto,38,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Overlay,Roboto,50,&H00FFFFFF,&H000000FF,&H00222222,&H00222222,0,0,0,0,100,100,0,0,1,0,1.5,5,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:19.35,0:00:23.84,Default,,0,0,0,,"Địa Cầu Lưu Lạc" là một bộ phim thảm họa\Nkhoa học viễn tưởng Trung Quốc năm 2019
+Dialogue: 0,0:00:19.35,0:00:23.84,Default,,0,0,0,,{\i1}Địa Cầu Lưu Lạc{\i0} là một bộ phim thảm họa\Nkhoa học viễn tưởng Trung Quốc năm 2019
 Dialogue: 0,0:00:23.84,0:00:26.11,Default,,0,0,0,,được phóng tác từ tiểu thuyết cùng tên
-Dialogue: 0,0:00:27.26,0:00:31.07,Default,,0,0,0,,Trong phim, nhân loại\Ndùng các động cơ sức đẩy cực đại
+Dialogue: 0,0:00:27.26,0:00:31.07,Default,,0,0,0,,Trong phim, nhân loại\Ndùng các động cơ thúc đẩy cực đại
 Dialogue: 0,0:00:31.07,0:00:33.60,Default,,0,0,0,,để đưa Trái Đất\Nrời khỏi Mặt Trời đang hấp hối
 Dialogue: 0,0:00:33.60,0:00:36.29,Default,,0,0,0,,tiến hành chuyến đi dài đằng đẵng 2000 năm
 Dialogue: 0,0:00:36.29,0:00:38.08,Default,,0,0,0,,hướng đến hệ sao Alpha Centauri
-Dialogue: 0,0:00:39.22,0:00:43.24,Default,,0,0,0,,phim đạt doanh thu to lớn và được\Nphê bình rất tốt tại Trung Quốc
+Dialogue: 0,0:00:39.22,0:00:43.24,Default,,0,0,0,,Phim đạt doanh thu to lớn và được\Nphê bình rất tốt tại Trung Quốc
 Dialogue: 0,0:00:43.66,0:00:47.14,Default,,0,0,0,,Tuy không hề là tác phẩm kinh điển
 Dialogue: 0,0:00:47.14,0:00:49.54,Default,,0,0,0,,nhưng chí ít nó có thể sánh ngang…
-Dialogue: 0,0:00:51.42,0:00:52.87,Default,,0,0,0,,"Ngày Độc Lập"…?
+Dialogue: 0,0:00:51.42,0:00:52.87,Default,,0,0,0,,{\i1}Ngày Độc Lập{\i0}…?
 Dialogue: 0,0:00:56.46,0:00:58.61,Default,,0,0,0,,Nhưng trong video kỳ này
 Dialogue: 0,0:00:58.61,0:01:02.12,Default,,0,0,0,,tôi chỉ muốn chỉ ra\Nmột nét riêng trong bộ phim này
 Dialogue: 0,0:01:02.83,0:01:07.29,Default,,0,0,0,,đó là mặc dù bề ngoài phim tưởng như\Nchỉ là bom tấn kĩ xảo Hollywood hoành tráng
@@ -46,18 +39,18 @@ Dialogue: 0,0:01:22.54,0:01:26.50,Default,,0,0,0,,đó là bởi vì mục tiêu
 Dialogue: 0,0:01:26.50,0:01:30.43,Default,,0,0,0,,mà là thông qua câu chuyện\Nđể khơi gợi cảm xúc nào đó
 Dialogue: 0,0:01:30.43,0:01:33.38,Default,,0,0,0,,mà cảm xúc thì là thứ\Nmang tính cực kì cá nhân
 Dialogue: 0,0:01:33.38,0:01:38.80,Default,,0,0,0,,Bởi thế, tất cả câu chuyện hay thì đều\Nđược rút từ trải nghiệm cá nhân của tác gia
-Dialogue: 0,0:01:38.80,0:01:41.64,Default,,0,0,0,,Ví dụ "Chúa Nhẫn" và Thế chiến thứ nhất
+Dialogue: 0,0:01:38.80,0:01:41.64,Default,,0,0,0,,Ví dụ {\i1}Chúa Nhẫn{\i0} và Thế chiến thứ nhất
 Dialogue: 0,0:01:41.64,0:01:46.59,Default,,0,0,0,,Đầm Lầy Chết trong sách\Ncó cảm hứng lấy từ Trận Somme
 Dialogue: 0,0:01:46.59,0:01:49.29,Default,,0,0,0,,Bằng cách thông qua cảm nhận của bản thân
 Dialogue: 0,0:01:49.29,0:01:52.42,Default,,0,0,0,,bất kể thiết lập trông có kỳ ảo đến đâu
 Dialogue: 0,0:01:52.42,0:01:56.16,Default,,0,0,0,,Tolkien vẫn có thể viết nên Đầm Lầy Chết\Nvô cùng chân thực
 Dialogue: 0,0:01:56.16,0:01:59.16,Default,,0,0,0,,bởi vì nỗi sợ hãi đằng sau đấy\Nlà thứ chân thực
 Dialogue: 0,0:01:59.16,0:02:02.01,Default,,0,0,0,,là thể nghiệm của chính tác giả\Ntừng tham chiến
-Dialogue: 0,0:02:02.95,0:02:05.49,Default,,0,0,0,,Tương tự, trong "Địa Cầu Lưu Lạc"
+Dialogue: 0,0:02:02.95,0:02:05.49,Default,,0,0,0,,Tương tự, trong {\i1}Địa Cầu Lưu Lạc{\i0}
 Dialogue: 0,0:02:05.49,0:02:08.74,Default,,0,0,0,,Nhằm miêu tả một Trung Quốc hậu tận thế
 Dialogue: 0,0:02:08.74,0:02:13.34,Default,,0,0,0,,nhà làm phim đã lấy cảm hứng từ\Nmọi mặt tiêu cực của cuộc sống ở Trung Quốc
 Dialogue: 0,0:02:13.34,0:02:14.66,Default,,0,0,0,,bất kể nhỏ nhặt thế nào
-Dialogue: 0,0:02:15.30,0:02:17.08,Default,,0,0,0,,nhìn mỗi thiết lập cảnh này thôi
+Dialogue: 0,0:02:15.30,0:02:17.08,Default,,0,0,0,,Nhìn mỗi thiết lập cảnh này thôi
 Dialogue: 0,0:02:17.08,0:02:20.03,Default,,0,0,0,,có những con hẻm ẩm ướt và tăm tối này
 Dialogue: 0,0:02:20.03,0:02:24.41,Default,,0,0,0,,đi kèm với những biển LED\Nnằm khắp nơi ở Trung Quốc này
 Dialogue: 0,0:02:24.41,0:02:27.48,Default,,0,0,0,,và tất nhiên trên biển\Nlà chấm điểm và cho vay tín dụng
@@ -67,7 +60,7 @@ Dialogue: 0,0:02:35.74,0:02:36.98,Default,,0,0,0,,đánh bạc
 Dialogue: 0,0:02:36.98,0:02:39.58,Default,,0,0,0,,nữ sinh ăn mặc giống nàng thỏ\Nở hộp đêm rẻ tiền
 Dialogue: 0,0:02:40.25,0:02:42.53,Default,,0,0,0,,và trò chơi điện tử lậu
 Dialogue: 0,0:02:42.53,0:02:45.95,Default,,0,0,0,,đấy đều là những yếu tố mặt tối\Nthường thấy của Trung Quốc
-Dialogue: 0,0:02:46.53,0:02:48.98,Default,,0,0,0,,và để phản ánh tình trạng con người
+Dialogue: 0,0:02:46.53,0:02:48.98,Default,,0,0,0,,Và để phản ánh tình trạng con người
 Dialogue: 0,0:02:48.98,0:02:50.94,Default,,0,0,0,,thì cũng có cảnh lớp học
 Dialogue: 0,0:02:53.96,0:02:57.85,Default,,0,0,0,,phản ánh nền giáo dục cơ sở mang tính biểu\Ndiễn bị người ta chỉ trích rất nhiều
 Dialogue: 0,0:02:58.69,0:03:01.51,Default,,0,0,0,,môi trường làm việc\Nkhắc nghiệt và nguy hiểm
@@ -76,30 +69,30 @@ Dialogue: 0,0:03:03.24,0:03:07.11,Default,,0,0,0,,những thông báo khẩu hi�
 Dialogue: 0,0:03:10.48,0:03:13.21,Default,,0,0,0,,sự tham ô và nhờn chức của cảnh sát
 Dialogue: 0,0:03:13.21,0:03:15.32,Default,,0,0,0,,khi mà họ công nhiên nhận hối lộ
 Dialogue: 0,0:03:15.32,0:03:17.32,Default,,0,0,0,,và vẫn không chịu làm công việc của mình
-Dialogue: 0,0:03:17.83,0:03:19.63,Default,,0,0,0,,và tình trạng sản phẩm khiêu dâm
+Dialogue: 0,0:03:17.83,0:03:19.63,Default,,0,0,0,,Và tình trạng sản phẩm khiêu dâm
 Dialogue: 0,0:03:19.63,0:03:21.14,Default,,0,0,0,,là thứ vi pháp ở Trung Quốc
-Dialogue: 0,0:03:21.14,0:03:24.10,Default,,0,0,0,,cho nên vật phẩm khiêu dâm tốt\Nthì lưu thống như tiền tệ
+Dialogue: 0,0:03:21.14,0:03:24.10,Default,,0,0,0,,cho nên vật phẩm khiêu dâm tốt\Nthì lưu thông như tiền tệ
 Dialogue: 0,0:03:24.10,0:03:26.56,Default,,0,0,0,,đủ dùng để hối lộ nhân viên công chức
-Dialogue: 0,0:03:27.59,0:03:31.42,Default,,0,0,0,,mọi khung hình của bộ phim này\Nđều mang đậm sức sống và hơi thở
+Dialogue: 0,0:03:27.59,0:03:31.42,Default,,0,0,0,,Mọi khung hình của bộ phim này\Nđều mang đậm sức sống và hơi thở
 Dialogue: 0,0:03:31.42,0:03:35.50,Default,,0,0,0,,nó không cần phải kể lể với bạn\Nthế giới đấy rối ren vô pháp đến cỡ nào
-Dialogue: 0,0:03:35.50,0:03:38.82,Default,,0,0,0,,thông qua những biểu tượng mà nhà làm phim\Nđúc kết từ cuộc sống thực tế
+Dialogue: 0,0:03:35.50,0:03:38.82,Default,,0,0,0,,Thông qua những biểu tượng mà nhà làm phim\Nđúc kết từ cuộc sống thực tế
 Dialogue: 0,0:03:38.82,0:03:44.02,Default,,0,0,0,,phim khơi gợi lên được cảm xúc chân thực\Nvà tự nhiên từ quan chúng
-Dialogue: 0,0:03:44.82,0:03:50.85,Default,,0,0,0,,so sánh với "Tước Tích",\Nthứ "lấy cảm hứng" từ "Fate/Stay Night"
-Dialogue: 0,0:03:51.48,0:03:56.09,Default,,0,0,0,,hay là "Eragon", thứ lấy cảm hứng\Ntừ "Star Wars" với "Chúa Nhẫn"
+Dialogue: 0,0:03:44.82,0:03:50.85,Default,,0,0,0,,So sánh với {\i1}Tước Tích{\i0},\Nthứ {\b1}"lấy cảm hứng"{\b0} từ {\i1}Fate/Stay Night{\i0}
+Dialogue: 0,0:03:51.48,0:03:56.09,Default,,0,0,0,,hay là {\i1}Eragon{\i0}, thứ lấy cảm hứng\Ntừ {\i1}Star Wars{\i0} với {\i1}Chúa Nhẫn{\i0}
 Dialogue: 0,0:03:56.09,0:04:00.37,Default,,0,0,0,,hai thế giới đấy chẳng có gì\Nngoài rập khuôn với trình bày
 Dialogue: 0,0:04:00.37,0:04:04.30,Default,,0,0,0,,Bởi vì những phim đấy chỉ ráng kể\Ncâu chuyện của người khác
 Dialogue: 0,0:04:04.30,0:04:06.45,Default,,0,0,0,,chứ không chia sẻ trải nghiệm
 Dialogue: 0,0:04:06.45,0:04:07.80,Default,,0,0,0,,hay cảm xúc của bản thân
 Dialogue: 0,0:04:09.99,0:04:12.32,Default,,0,0,0,,CHƯƠNG 2
-Dialogue: 0,0:04:12.32,0:04:14.45,Default,,0,0,0,,nhưng đấy mới chỉ là\Nđịnh hướng nghệ thuật thôi
+Dialogue: 0,0:04:12.32,0:04:14.45,Default,,0,0,0,,Nhưng đấy mới chỉ là\Nđịnh hướng nghệ thuật thôi
 Dialogue: 0,0:04:14.45,0:04:16.38,Default,,0,0,0,,chúng ta cần vào sâu hơn
-Dialogue: 0,0:04:16.38,0:04:21.13,Default,,0,0,0,,bởi vì triết lý đằng sau "Địa Cầu Lưu Lạc"\Ntràn đầy hơi thở Trung Quốc
+Dialogue: 0,0:04:16.38,0:04:21.13,Default,,0,0,0,,bởi vì triết lý đằng sau {\i1}Địa Cầu Lưu Lạc{\i0}\Ntràn đầy hơi thở Trung Quốc
 Dialogue: 0,0:04:21.13,0:04:26.17,Default,,0,0,0,,Những câu chuyện nhân loại vì thảm họa\Nmà rời bỏ Trái Đất thì chẳng phải hiếm thấy
-Dialogue: 0,0:04:26.17,0:04:29.55,Default,,0,0,0,,Nhưng cuộc thiên di thì thông thường\Nlà đi bằng phi thuyền cơ
+Dialogue: 0,0:04:26.17,0:04:29.55,Default,,0,0,0,,nhưng cuộc thiên di thì thông thường\Nlà đi bằng phi thuyền cơ
 Dialogue: 0,0:04:30.20,0:04:33.40,Default,,0,0,0,,Tôi xin mạnh dạn mà khái quát rằng
 Dialogue: 0,0:04:33.40,0:04:37.62,Default,,0,0,0,,cấu tứ của những phim này,\Nhẳn rất nhiều người sẽ đồng ý,
 Dialogue: 0,0:04:37.62,0:04:39.73,Default,,0,0,0,,là đều lấy từ hình tượng con tàu Nô-ê
-Dialogue: 0,0:04:40.78,0:04:45.57,Default,,0,0,0,,ở phương tây, sự hủy hiệt của thiên nhiên\Nthì thường vô phương ngăn cản
+Dialogue: 0,0:04:40.78,0:04:45.57,Default,,0,0,0,,Ở phương tây, sự hủy hiệt của thiên nhiên\Nthì thường vô phương ngăn cản
 Dialogue: 0,0:04:45.57,0:04:47.99,Default,,0,0,0,,hệt cơn thịnh nộ của Thượng Đế
 Dialogue: 0,0:04:47.99,0:04:50.17,Default,,0,0,0,,loài người sống trong cõi\Ndo Thượng Đế sáng tạo
 Dialogue: 0,0:04:50.17,0:04:53.08,Default,,0,0,0,,nên khi ngày tàn của nó đến
@@ -108,7 +101,7 @@ Dialogue: 0,0:04:56.22,0:04:58.48,Default,,0,0,0,,Nhưng mà trong thần thoạ
 Dialogue: 0,0:04:58.48,0:05:00.88,Default,,0,0,0,,không hề tồn tại vị thần\Nchí cao vô thượng như vậy
 Dialogue: 0,0:05:00.88,0:05:04.56,Default,,0,0,0,,thần tiên và con người\Nđều phải tuân theo trật tự của tự nhiên
 Dialogue: 0,0:05:04.56,0:05:06.71,Default,,0,0,0,,hay còn được gọi là "Đạo"
-Dialogue: 0,0:05:06.71,0:05:09.12,Default,,0,0,0,,cho nên, trong thần thoại\Nhồng thủy của Trung Quốc thì
+Dialogue: 0,0:05:06.71,0:05:09.12,Default,,0,0,0,,Cho nên, trong thần thoại\Nhồng thủy của Trung Quốc thì
 Dialogue: 0,0:05:09.12,0:05:12.66,Default,,0,0,0,,bầu trời vỡ thì được nữ thần vá lại
 Dialogue: 0,0:05:12.66,0:05:16.07,Default,,0,0,0,,hay khi Hoàng hà ngập lụt\Nthì được loài người ra sức sửa trị
 Dialogue: 0,0:05:16.07,0:05:20.25,Default,,0,0,0,,trong quãng thời gian dài hàng 13 năm trời
@@ -120,12 +113,12 @@ Dialogue: 0,0:05:34.67,0:05:38.01,Default,,0,0,0,,Bởi thế, trong thần tho�
 Dialogue: 0,0:05:38.01,0:05:40.11,Default,,0,0,0,,Thiên nhiên là thứ uốn nắn được
 Dialogue: 0,0:05:40.11,0:05:41.34,Default,,0,0,0,,là thứ có thể cải biến được
 Dialogue: 0,0:05:41.34,0:05:42.78,Default,,0,0,0,,là thứ có thể chinh phục được
-Dialogue: 0,0:05:42.78,0:05:44.98,Default,,0,0,0,,mặc dù cần nỗ lực của mấy đời người
-Dialogue: 0,0:05:44.98,0:05:47.36,Default,,0,0,0,,Nhưng di chuyển cả Trái Đất
+Dialogue: 0,0:05:42.78,0:05:44.98,Default,,0,0,0,,Mặc dù cần nỗ lực của mấy đời người
+Dialogue: 0,0:05:44.98,0:05:47.36,Default,,0,0,0,,nhưng di chuyển cả Trái Đất
 Dialogue: 0,0:05:47.36,0:05:49.12,Default,,0,0,0,,thì đó là điều khả thi, và đáng vinh hạnh
-Dialogue: 0,0:05:50.58,0:05:54.17,Default,,0,0,0,,trên thực tế, "Địa Cầu Lưu Lạc"\Nchẳng qua là một câu chuyện thần thoại
+Dialogue: 0,0:05:50.58,0:05:54.17,Default,,0,0,0,,Trên thực tế, {\i1}Địa Cầu Lưu Lạc{\i0}\Nchẳng qua là một câu chuyện thần thoại
 Dialogue: 0,0:05:54.17,0:05:56.11,Default,,0,0,0,,mang chiếc vỏ sci-fi
-Dialogue: 0,0:05:56.11,0:05:58.80,Default,,0,0,0,,đó là câu chuyện "Ngu công dời núi"
+Dialogue: 0,0:05:56.11,0:05:58.80,Default,,0,0,0,,đó là câu chuyện {\i1}Ngu Công Dời Núi{\i0}
 Dialogue: 0,0:05:58.80,0:06:02.21,Default,,0,0,0,,trong chuyện, ông Ngu nhất quyết\Nđào bằng được hai quả núi
 Dialogue: 0,0:06:02.21,0:06:05.30,Default,,0,0,0,,đơn giản chỉ vì\Nhai quả núi đấy chặn nhà ông
 Dialogue: 0,0:06:05.81,0:06:09.15,Default,,0,0,0,,khi người ta bảo ông đó là điều bất khả thi
@@ -137,34 +130,34 @@ Dialogue: 0,0:06:16.89,0:06:19.50,Default,,0,0,0,,"con cái của con cái sẽ 
 Dialogue: 0,0:06:19.50,0:06:21.11,Default,,0,0,0,,"Rồi có một ngày"
 Dialogue: 0,0:06:21.11,0:06:22.89,Default,,0,0,0,,"băng nhất định sẽ hóa thành nước"
 Dialogue: 0,0:06:22.92,0:06:25.62,Default,,0,0,0,,CHƯƠNG 3
-Dialogue: 0,0:06:25.62,0:06:26.76,Default,,0,0,0,,và với tiền đề này,
-Dialogue: 0,0:06:26.76,0:06:30.30,Default,,0,0,0,,cuối cùng chúng ta cũng có thể bàn\Nvề chủ đề của "Địa Cầu Lưu Lạc" rồi
-Dialogue: 0,0:06:30.30,0:06:34.95,Default,,0,0,0,,cái tư tưởng cốt lõi làm nên cái chất\NTrung Quốc trong "Địa Cầu Lưu Lạc" này
+Dialogue: 0,0:06:25.62,0:06:26.76,Default,,0,0,0,,Và với tiền đề này,
+Dialogue: 0,0:06:26.76,0:06:30.30,Default,,0,0,0,,cuối cùng chúng ta cũng có thể bàn\Nvề chủ đề của {\i1}Địa Cầu Lưu Lạc{\i0} rồi
+Dialogue: 0,0:06:30.30,0:06:34.95,Default,,0,0,0,,Cái tư tưởng cốt lõi làm nên cái chất\NTrung Quốc trong {\i1}Địa Cầu Lưu Lạc{\i0} này
 Dialogue: 0,0:06:34.95,0:06:37.10,Default,,0,0,0,,đó là giá trị của "Nhà"
-Dialogue: 0,0:06:37.70,0:06:40.32,Default,,0,0,0,,mọi đứa bé Trung Quốc sau khi\Nnghe chuyện "Ngu công dời núi"
+Dialogue: 0,0:06:37.70,0:06:40.32,Default,,0,0,0,,Mọi đứa bé Trung Quốc sau khi\Nnghe chuyện {\i1}Ngu Công Dời Núi{\i0}
 Dialogue: 0,0:06:40.32,0:06:43.13,Default,,0,0,0,,đều sẽ có câu hỏi rằng
 Dialogue: 0,0:06:43.13,0:06:46.05,Default,,0,0,0,,"Tại sao người ta không dọn nhà đi?"
-Dialogue: 0,0:06:46.05,0:06:50.08,Default,,0,0,0,,và sau khi lớn lên,\Ntôi mới thực sự rõ câu trả lời
-Dialogue: 0,0:06:50.80,0:06:55.56,Default,,0,0,0,,trong tiếng Trung, khái niệm\N"gia đình" và "nhà" đều dùng chung một chữ
+Dialogue: 0,0:06:46.05,0:06:50.08,Default,,0,0,0,,Và sau khi lớn lên,\Ntôi mới thực sự rõ câu trả lời
+Dialogue: 0,0:06:50.80,0:06:55.56,Default,,0,0,0,,Trong tiếng Trung, khái niệm\N"gia đình" và "nhà" đều dùng chung một chữ
 Dialogue: 0,0:06:55.56,0:06:58.20,Default,,0,0,0,,tuy có sự khu biệt giữa hai khái niệm
 Dialogue: 0,0:06:58.20,0:07:02.14,Default,,0,0,0,,nhưng so với văn hóa Bắc Mỹ,\Nsự khu biệt là rất nhỏ
-Dialogue: 0,0:07:02.14,0:07:05.94,Default,,0,0,0,,ở phương Tây, sẽ có người nói\N"nơi nào có gia đình thì chính là nhà"
+Dialogue: 0,0:07:02.14,0:07:05.94,Default,,0,0,0,,Ở phương Tây, sẽ có người nói\N"Nơi nào có gia đình thì chính là nhà"
 Dialogue: 0,0:07:05.94,0:07:08.39,Default,,0,0,0,,"Asgard không phải là một nơi chốn,\Nnó là một dân tộc"
 Dialogue: 0,0:07:08.39,0:07:11.53,Default,,0,0,0,,Thế nhưng, cách nghĩ của Trung Quốc\Nkhông hề giống vậy
 Dialogue: 0,0:07:11.53,0:07:15.57,Default,,0,0,0,,với lịch sử nông nghiệp của mấy nghìn năm\Nđã ăn sâu bén rễ
 Dialogue: 0,0:07:15.57,0:07:20.02,Default,,0,0,0,,tại đây, đất đai cũng là một\Nthành viên gia đình như người ta
 Dialogue: 0,0:07:20.02,0:07:23.21,Default,,0,0,0,,đối với người Trung Quốc mà nói,\Nđất đai chính là nhân chứng lịch sử
 Dialogue: 0,0:07:23.21,0:07:25.49,Default,,0,0,0,,là vết tích của thời gian
-Dialogue: 0,0:07:26.04,0:07:27.37,Default,,0,0,0,,thế nên khi mà đi nơi khác
+Dialogue: 0,0:07:26.04,0:07:27.37,Default,,0,0,0,,Thế nên khi mà đi nơi khác
 Dialogue: 0,0:07:27.37,0:07:29.45,Default,,0,0,0,,thì cũng tức là bỏ lại lịch sử
 Dialogue: 0,0:07:29.45,0:07:33.38,Default,,0,0,0,,đối với một dân tộc cho đến ngày nay\Nvẫn thờ cúng tổ tiên mà nói
 Dialogue: 0,0:07:33.38,0:07:36.23,Default,,0,0,0,,thì đấy là điều không thể chấp nhận
-Dialogue: 0,0:07:37.26,0:07:41.18,Default,,0,0,0,,lúc cao trào phim, nhân loại\Nđối diện một song đề
+Dialogue: 0,0:07:37.26,0:07:41.18,Default,,0,0,0,,Lúc cao trào phim, nhân loại\Nđối diện một song đề
 Dialogue: 0,0:07:41.18,0:07:46.60,Default,,0,0,0,,họ phải chọn giữa tái dựng nhân loại\Ntừ đầu trên một tinh cầu mới
 Dialogue: 0,0:07:46.60,0:07:50.66,Default,,0,0,0,,"Trạm không gian Hoa tiêu có ướp lạnh\N300 nghìn trứng thụ tinh nhân loại"
 Dialogue: 0,0:07:50.66,0:07:53.32,Default,,0,0,0,,"và 100 triệu hạt giống cây trồng cơ bản"
 Dialogue: 0,0:07:54.84,0:07:58.86,Default,,0,0,0,,hoặc là chọn thử đánh liều tất cả\Nđể bảo toàn Trái Đất
-Dialogue: 0,0:08:00.16,0:08:01.73,Default,,0,0,0,,đối với văn hóa Trung Quốc
+Dialogue: 0,0:08:00.16,0:08:01.73,Default,,0,0,0,,Đối với văn hóa Trung Quốc
 Dialogue: 0,0:08:01.73,0:08:04.62,Default,,0,0,0,,Nhà, là một phần của văn minh
 Dialogue: 0,0:08:05.10,0:08:06.96,Default,,0,0,0,,không cách nào số hóa nó
 Dialogue: 0,0:08:06.96,0:08:09.02,Default,,0,0,0,,không cách nào dựng lại nó
@@ -173,42 +166,42 @@ Dialogue: 0,0:08:13.55,0:08:17.98,Default,,0,0,0,,Đây chính là nguyên do m�
 Dialogue: 0,0:08:18.43,0:08:22.61,Default,,0,0,0,,Bởi vì cho dù\Ncó phải biến đổi cả thiên nhiên
 Dialogue: 0,0:08:22.61,0:08:25.14,Default,,0,0,0,,thì điều đó cũng đáng,\Ncho ngôi nhà của mình
 Dialogue: 0,0:08:28.17,0:08:30.46,Default,,0,0,0,,KẾT LUẬN
-Dialogue: 0,0:08:30.46,0:08:34.28,Default,,0,0,0,,việc hiểu rõ được mấy chi tiết đấy có lẽ\Nchính là điều làm phim này cuốn với tôi
-Dialogue: 0,0:08:35.57,0:08:38.58,Default,,0,0,0,,các nhân vật trong phim đều đưa ra\Nnhững quyết định hấp tấp, duy cảm
+Dialogue: 0,0:08:30.46,0:08:34.28,Default,,0,0,0,,Việc hiểu rõ được mấy chi tiết đấy có lẽ\Nchính là điều làm phim này cuốn với tôi
+Dialogue: 0,0:08:35.57,0:08:38.58,Default,,0,0,0,,Các nhân vật trong phim đều đưa ra\Nnhững quyết định hấp tấp, duy cảm
 Dialogue: 0,0:08:38.58,0:08:40.64,Default,,0,0,0,,giống như con người bình thường vậy
 Dialogue: 0,0:08:40.64,0:08:45.21,Default,,0,0,0,,và lựa chọn của bọn họ tuy khác nhau\Nđều xoay quanh cái khái niệm "nhà" này
-Dialogue: 0,0:08:45.90,0:08:48.20,Default,,0,0,0,,một tiểu đội với nhiệm vụ sắp thất bại
+Dialogue: 0,0:08:45.90,0:08:48.20,Default,,0,0,0,,Một tiểu đội với nhiệm vụ sắp thất bại
 Dialogue: 0,0:08:48.20,0:08:51.65,Default,,0,0,0,,và nếu tiếp tục nữa, hẳn sẽ có thương vong
 Dialogue: 0,0:08:51.65,0:08:54.45,Default,,0,0,0,,thế là một người trong họ\Nquyết định phá hỏng cả nhiệm vụ
 Dialogue: 0,0:08:54.45,0:08:56.20,Default,,0,0,0,,để giữ cho tiểu đội được toàn vẹn
-Dialogue: 0,0:08:56.72,0:08:59.56,Default,,0,0,0,,khi mà sự tiêu vong của Trái Đất\Nđang ngập kề
+Dialogue: 0,0:08:56.72,0:08:59.56,Default,,0,0,0,,Khi mà sự tiêu vong của Trái Đất\Nđang ngập kề
 Dialogue: 0,0:08:59.56,0:09:01.40,Default,,0,0,0,,sẽ có người lựa chọn buông bỏ hy vọng
 Dialogue: 0,0:09:01.40,0:09:04.34,Default,,0,0,0,,và thà dành thời khắc cuối cùng\Nbên cạnh gia đình
 Dialogue: 0,0:09:04.34,0:09:06.51,Default,,0,0,0,,"tôi muốn về nhà"
 Dialogue: 0,0:09:08.38,0:09:09.79,Default,,0,0,0,,"gặp mẹ tôi"
-Dialogue: 0,0:09:09.79,0:09:13.60,Default,,0,0,0,,khi em gái của nhân vật chính\Nsắp từ chỗ cao ngã chết
+Dialogue: 0,0:09:09.79,0:09:13.60,Default,,0,0,0,,Khi em gái của nhân vật chính\Nsắp từ chỗ cao ngã chết
 Dialogue: 0,0:09:13.60,0:09:17.36,Default,,0,0,0,,anh trai cô ấy\Nkhông hề chần chừ hay tính kế gì
 Dialogue: 0,0:09:17.36,0:09:18.53,Default,,0,0,0,,cùng nhảy theo cô ấy luôn
-Dialogue: 0,0:09:20.19,0:09:22.98,Default,,0,0,0,,và ngay cả phi hành gia mà hy sinh mình
+Dialogue: 0,0:09:20.19,0:09:22.98,Default,,0,0,0,,Và ngay cả phi hành gia mà hy sinh mình
 Dialogue: 0,0:09:22.98,0:09:25.78,Default,,0,0,0,,thì cũng chẳng phải vì nhân loại mà hy sinh
 Dialogue: 0,0:09:26.18,0:09:27.76,Default,,0,0,0,,mà là vì con trai anh ta
 Dialogue: 0,0:09:27.76,0:09:28.56,Default,,0,0,0,,"nào…"
 Dialogue: 0,0:09:31.56,0:09:32.39,Default,,0,0,0,,"con trai"
-Dialogue: 0,0:09:34.37,0:09:37.46,Default,,0,0,0,,tôi thừa nhận, tôi rất thiên vị bộ phim này
-Dialogue: 0,0:09:37.98,0:09:39.40,Default,,0,0,0,,với tư cách là một di dân
+Dialogue: 0,0:09:34.37,0:09:37.46,Default,,0,0,0,,Tôi thừa nhận, tôi rất thiên vị bộ phim này
+Dialogue: 0,0:09:37.98,0:09:39.40,Default,,0,0,0,,Với tư cách là một di dân
 Dialogue: 0,0:09:39.40,0:09:42.90,Default,,0,0,0,,ngay từ lúc còn thiếu niên\Ntôi đã luôn vất vưởng và "lưu lạc"
 Dialogue: 0,0:09:43.27,0:09:46.11,Default,,0,0,0,,cho nên bộ phim này\Nđã rung động tôi từ đáy lòng
 Dialogue: 0,0:09:47.57,0:09:49.94,Default,,0,0,0,,mặc dù có những khiếm khuyết
-Dialogue: 0,0:09:49.94,0:09:52.83,Default,,0,0,0,,nhưng tình cảm đằng sau "Địa Cầu Lưu Lạc"\Nlà chân thực
+Dialogue: 0,0:09:49.94,0:09:52.83,Default,,0,0,0,,nhưng tình cảm đằng sau {\i1}Địa Cầu Lưu Lạc{\i0}\Nlà chân thực
 Dialogue: 0,0:09:53.30,0:09:55.72,Default,,0,0,0,,tư tưởng cốt lõi cũng phát từ chân tâm
-Dialogue: 0,0:09:56.61,0:10:00.99,Default,,0,0,0,,việc phim này dám dấn thân để vượt hơn\Nmột bom tấn bỏng ngô bình thường
+Dialogue: 0,0:09:56.61,0:10:00.99,Default,,0,0,0,,Việc phim này dám dấn thân để vượt hơn\Nmột bom tấn bỏng ngô bình thường
 Dialogue: 0,0:10:01.72,0:10:05.20,Default,,0,0,0,,chỉ có thế thôi, là đã lên trên\Nrất nhiều phim khác rồi
-Dialogue: 0,0:01:47.94,0:01:57.36,Overlay,,0,0,0,,{\fad(700, 1000)\an6\fs36\pos(1035,225}"Cái Đầm Lầy Chết đấy", Tolkien bảo,\N"là nhờ có miền Bắc nước Pháp sau Trận Somme mà ra".
+Dialogue: 0,0:01:47.94,0:01:57.36,Overlay,,0,0,0,,{\fad(700, 1000)\an5\fs38\pos(640,210)}ㅤㅤㅤㅤㅤㅤㅤㅤ"Cái Đầm Lầy Chết đấy", Tolkien bảo,\N"là nhờ có miền Bắc nước Pháp sau Trận Somme mà ra".
 Dialogue: 0,0:02:25.62,0:02:31.88,Overlay,,0,0,0,,{\an4\fs80\pos(645,360)}Đổi Điểm Tín Dụng
-Dialogue: 0,0:02:32.01,0:02:34.18,Overlay,,0,0,0,,{\an4\fs38\b0\pos(645,440)}"HÔM NAY TA LẠI MỘT BƯỚC GẦN HƠN\NTỚI NGÔI NHÀ MỚI"
+Dialogue: 0,0:02:32.01,0:02:34.18,Overlay,,0,0,0,,{\an4\fs38\pos(645,440)}"HÔM NAY TA LẠI MỘT BƯỚC GẦN HƠN\NTỚI NGÔI NHÀ MỚI"
 Dialogue: 0,0:05:04.87,0:05:06.66,Overlay,,0,0,0,,{\pos(640,540)}Đạo: Cái Trật Tự Thiên Nhiên
 Dialogue: 0,0:05:53.60,0:05:56.63,Overlay,,0,0,0,,{\fad(700, 0)\pos(640,85)}Ngu Công Dời Núi
-Dialogue: 0,0:06:52.39,0:07:01.94,Overlay,,0,0,0,,{\an4\fs72\pos(620,105)}Nhà
-Dialogue: 0,0:06:52.39,0:07:01.94,Overlay,,0,0,0,,{\an4\fs72\pos(600,370)}Gia đình
-Dialogue: 0,0:06:55.45,0:07:01.94,Overlay,,0,0,0,,{\fad(700,0)\an6\fs72\pos(530,105)}Gia Viên
-Dialogue: 0,0:06:55.45,0:07:01.94,Overlay,,0,0,0,,{\fad(1085,0)\an6\fs72\pos(510,370)}Gia Đình
+Dialogue: 0,0:06:52.39,0:07:01.94,Overlay,,0,0,0,,{\an4\fs74\pos(620,100)}Nhà
+Dialogue: 0,0:06:52.39,0:07:01.94,Overlay,,0,0,0,,{\an4\fs74\pos(600,365)}Gia đình
+Dialogue: 0,0:06:55.45,0:07:01.94,Overlay,,0,0,0,,{\fad(700,0)\an6\fs74\pos(530,100)\b1}Gia{\b0} Viên
+Dialogue: 0,0:06:55.45,0:07:01.94,Overlay,,0,0,0,,{\fad(1085,0)\an6\fs74\pos(510,365)\b1}Gia{\b0} Đình

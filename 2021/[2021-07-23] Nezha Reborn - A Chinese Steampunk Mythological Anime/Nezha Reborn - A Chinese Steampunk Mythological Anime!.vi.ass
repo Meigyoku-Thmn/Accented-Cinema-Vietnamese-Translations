@@ -10,20 +10,11 @@ PlayResX: 1280
 PlayResY: 720
 
 [Aegisub Project Garbage]
-Last Style Storage: Youtube
-Audio File: Nezha Reborn - A Chinese Steampunk Mythological Anime!.mp4
-Video File: Nezha Reborn - A Chinese Steampunk Mythological Anime!.mp4
-Video AR Mode: 4
-Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Scroll Position: 287
-Active Line: 298
-Video Position: 19223
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Roboto,38,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,3,2,2,2,10,10,10,1
-Style: Overlay,Roboto,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,5,10,10,10,1
+Style: Default,Roboto,38,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Overlay,Roboto,48,&H00FFFFFF,&H000000FF,&H00222222,&H00222222,-1,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -44,7 +35,7 @@ Dialogue: 0,0:00:31.17,0:00:33.54,Default,,0,0,0,,Rất nhiều người thấy 
 Dialogue: 0,0:00:33.54,0:00:35.90,Default,,0,0,0,,Sao những câu chuyện đậm đà văn hóa lịch sử
 Dialogue: 0,0:00:35.90,0:00:38.00,Default,,0,0,0,,lại có thể đem ra chế thành cái thứ…
 Dialogue: 0,0:00:38.00,0:00:38.95,Default,,0,0,0,,nhảm nhí như vầy?
-Dialogue: 0,0:00:40.09,0:00:42.08,Default,,0,0,0,,Giời tuy mọi người\Nđã có cái nhìn thoáng hơn
+Dialogue: 0,0:00:40.09,0:00:42.08,Default,,0,0,0,,Giờ tuy mọi người\Nđã có cái nhìn thoáng hơn
 Dialogue: 0,0:00:42.08,0:00:45.59,Default,,0,0,0,,nhưng những chủ đề kiểu vầy\Nvẫn chưa hề chấm dứt
 Dialogue: 0,0:00:45.59,0:00:47.53,Default,,0,0,0,,"Tôn Ngộ Không là người vô tính luyến ái"
 Dialogue: 0,0:00:47.53,0:00:51.45,Default,,0,0,0,,{\i1}Tân Thần Bảng: Na Tra Trùng Sinh{\i} chính là\NHoành Không Xuất Thế trong hoàn cảnh đấy
@@ -118,7 +109,7 @@ Dialogue: 0,0:04:00.29,0:04:02.48,Default,,0,0,0,,Mặc dù có được sức m
 Dialogue: 0,0:04:02.48,0:04:03.99,Default,,0,0,0,,thế nhưng mỗi lần đánh lại
 Dialogue: 0,0:04:03.99,0:04:06.26,Default,,0,0,0,,thì bọn mafia liền đàn áp nặng nề hơn
 Dialogue: 0,0:04:06.26,0:04:08.82,Default,,0,0,0,,Và trong cuộc giao chiến,\Nkẻ bị thương đều là người bên
-Dialogue: 0,0:04:09.39,0:04:10.91,Default,,0,0,0,,Cách sắp xếp cốt truyện 
+Dialogue: 0,0:04:09.39,0:04:10.91,Default,,0,0,0,,Cách sắp xếp cốt truyện
 Dialogue: 0,0:04:10.91,0:04:14.98,Default,,0,0,0,,của {\i1}Trùng Sinh{\i0} với câu chuyện gốc\Nthì về cơ bản là tình tiết giống nhau
 Dialogue: 0,0:04:14.98,0:04:18.43,Default,,0,0,0,,nhưng đã khéo léo chuyển\Nphê phán từ chế độ quân chủ
 Dialogue: 0,0:04:18.43,0:04:20.15,Default,,0,0,0,,sang phân hóa giàu nghèo
@@ -154,7 +145,7 @@ Dialogue: 0,0:05:36.91,0:05:39.48,Default,,0,0,0,,bởi vì nó đã gìn giữ 
 Dialogue: 0,0:05:39.48,0:05:43.82,Default,,0,0,0,,một truyền thuyết dân gian mang tầm quan\Ntrọng làm nên văn hóa Trung Quốc
 Dialogue: 0,0:05:43.82,0:05:45.73,Default,,0,0,0,,Đây là một câu chuyện Trung Quốc
 Dialogue: 0,0:05:45.73,0:05:47.98,Default,,0,0,0,,khoác lên chiếc vỏ anime kiểu Nhật thôi
-Dialogue: 0,0:05:51.03,0:05:52.83,Default,,0,0,0,,THÔNG ĐIỆP TÀI TRỢ
+Dialogue: 0,0:05:51.03,0:05:52.73,Default,,0,0,0,,THÔNG ĐIỆP TÀI TRỢ
 Dialogue: 0,0:05:52.83,0:05:55.97,Default,,0,0,0,,Nếu video kỳ này làm bạn dấy lên\Nhứng thú với thần thoại Trung Quốc
 Dialogue: 0,0:05:55.97,0:05:58.41,Default,,0,0,0,,thì tác phẩm nhập môn\Ntuyệt nhất không gì khác
 Dialogue: 0,0:05:58.41,0:05:59.85,Default,,0,0,0,,chính là {\i1}Tây Du Ký{\i}
@@ -180,7 +171,7 @@ Dialogue: 0,0:06:41.31,0:06:44.20,Default,,0,0,0,,khoa học giả tưởng, r�
 Dialogue: 0,0:06:44.20,0:06:46.41,Default,,0,0,0,,thì Audible chính là bến đỗ chu toàn
 Dialogue: 0,0:06:46.41,0:06:48.89,Default,,0,0,0,,Hãy tới audible.com/accented
 Dialogue: 0,0:06:48.89,0:06:50.97,Default,,0,0,0,,và thử dùng miễn phí ngay hôm nay
-Dialogue: 0,0:06:51.89,0:06:54.47,Default,,0,0,0,,CHƯƠNG HAI
+Dialogue: 0,0:06:52.23,0:06:53.94,Default,,0,0,0,,CHƯƠNG HAI
 Dialogue: 0,0:06:55.85,0:06:57.94,Default,,0,0,0,,Bằng việc gìn giữ được\Ncái hồn của câu chuyện
 Dialogue: 0,0:06:57.94,0:07:03.31,Default,,0,0,0,,{\i1}Na Tra Trùng Sinh{\i} kiến tạo được chính\Nmình trên nền móng vững vàng 500 năm ấy
 Dialogue: 0,0:07:03.31,0:07:05.71,Default,,0,0,0,,mà không hề thiếu đi\Nnhững sự chú trọng trong đó
@@ -267,7 +258,7 @@ Dialogue: 0,0:10:29.06,0:10:33.35,Default,,0,0,0,,còn màu mè thị giác đ�
 Dialogue: 0,0:10:33.35,0:10:36.61,Default,,0,0,0,,Tuy rằng người ta đều thích\Ntán thưởng vẻ ngoài hào nhoáng
 Dialogue: 0,0:10:36.61,0:10:38.25,Default,,0,0,0,,thì dù cho có sáo mòn đi nữa
 Dialogue: 0,0:10:38.25,0:10:41.21,Default,,0,0,0,,thì cái bên trong mới là quan trọng nhất
-Dialogue: 0,0:10:42.05,0:10:44.14,Default,,0,0,0,,KẾT LUẬN
+Dialogue: 0,0:10:42.02,0:10:43.65,Default,,0,0,0,,KẾT LUẬN
 Dialogue: 0,0:10:44.85,0:10:48.05,Default,,0,0,0,,Video kỳ này tôi tránh\Nphân tích sâu vào tình tiết
 Dialogue: 0,0:10:48.05,0:10:50.61,Default,,0,0,0,,bởi vì thực tình tôi không muốn\Nspoil nội dung phim
 Dialogue: 0,0:10:50.61,0:10:52.44,Default,,0,0,0,,Xem đến đây rồi
@@ -344,6 +335,6 @@ Dialogue: 0,0:02:28.06,0:02:29.31,Overlay,,0,0,0,,{\an6\pos(690,50)}【ĐÔNG H�
 Dialogue: 0,0:02:31.06,0:02:32.06,Overlay,,0,0,0,,{\an6\pos(540,50)}【ẢI TRẦN ĐƯỜNG】
 Dialogue: 0,0:08:04.02,0:08:06.60,Overlay,,0,0,0,,{\an6\pos(560,50)}【THỜI ĐẠI DÂN QUỐC】
 Dialogue: 0,0:09:26.23,0:09:26.98,Overlay,,0,0,0,,{\an5\pos(640,50)}(GIỮ YÊN TĨNH)
-Dialogue: 0,0:09:28.23,0:09:30.31,Overlay,,0,0,0,,{\an5\pos(640,50)\b0}(CHUYỂN PHÁT NHANH SAO CHỔI)
+Dialogue: 0,0:09:28.23,0:09:30.31,Overlay,,0,0,0,,{\an5\pos(640,50)}(CHUYỂN PHÁT NHANH SAO CHỔI)
 Dialogue: 0,0:10:10.44,0:10:12.27,Overlay,,0,0,0,,{\an6\pos(500,50)}【THỦY LIÊM ĐỘNG】
 Dialogue: 0,0:11:02.69,0:11:05.02,Overlay,,0,0,0,,{\an5\pos(640,400)\fs54}{\fad(900,0)}CẢNH BÁO SPOILER NHẸ

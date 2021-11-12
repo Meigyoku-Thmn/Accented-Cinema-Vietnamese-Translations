@@ -10,20 +10,11 @@ PlayResX: 1280
 PlayResY: 720
 
 [Aegisub Project Garbage]
-Last Style Storage: Youtube
-Audio File: Gateway Films for Getting into Asian Cinema - Video Essay.mp4
-Video File: Gateway Films for Getting into Asian Cinema - Video Essay.mp4
-Video AR Mode: 4
-Video AR Value: 1.777778
-Video Zoom Percent: 0.875000
-Scroll Position: 134
-Active Line: 142
-Video Position: 15129
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Roboto,38,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,3,2,2,2,10,10,10,1
-Style: Overlay,Roboto,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,5,10,10,10,1
+Style: Default,Roboto,38,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Overlay,Roboto,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -79,7 +70,7 @@ Dialogue: 0,0:03:19.18,0:03:25.07,Default,,0,0,0,,nhân vật của ông bay lư
 Dialogue: 0,0:03:27.56,0:03:30.94,Default,,0,0,0,,nếu như bạn là fan\Ncủa các pha hành động trong {\i1}Ma Trận{\i0}
 Dialogue: 0,0:03:30.94,0:03:32.78,Default,,0,0,0,,và ưa chuyện kể đậm tính triết học
 Dialogue: 0,0:03:32.78,0:03:36.12,Default,,0,0,0,,Có lẽ {\i1}Anh Hùng{\i0} sẽ là phim hợp gu cho bạn
-Dialogue: 0,0:03:37.17,0:03:40.50,Default,,0,0,0,,CHƯƠNG 2
+Dialogue: 0,0:03:37.17,0:03:40.45,Default,,0,0,0,,CHƯƠNG 2
 Dialogue: 0,0:03:40.50,0:03:43.50,Default,,0,0,0,,"Thần Lực là nguồn gốc sức mạnh của Jedi"
 Dialogue: 0,0:03:43.50,0:03:46.72,Default,,0,0,0,,"Tất cả sinh vật\Nđều tỏa ra lực trường Thần Lực"
 Dialogue: 0,0:03:46.72,0:03:49.28,Default,,0,0,0,,"Thần Lực bao quanh chúng ta,\Nxuyên thấu chúng ta"
@@ -113,7 +104,7 @@ Dialogue: 0,0:05:49.40,0:05:53.14,Default,,0,0,0,,dùng một thanh gươm khôn
 Dialogue: 0,0:05:55.98,0:05:58.40,Default,,0,0,0,,Nếu như bạn muốn xem\Nnhững màn đấu kiếm kinh người
 Dialogue: 0,0:05:58.40,0:06:01.16,Default,,0,0,0,,hoặc có hứng thú\Nvới văn hóa triết lý đằng sau kiếm
 Dialogue: 0,0:06:01.16,0:06:03.88,Default,,0,0,0,,thì {\i1}Lãng Khách Kenshin{\i0}\Nlà một tác phẩm không thể bỏ qua
-Dialogue: 0,0:06:04.43,0:06:06.68,Default,,0,0,0,,CHƯƠNG 3
+Dialogue: 0,0:06:03.88,0:06:06.68,Default,,0,0,0,,CHƯƠNG 3
 Dialogue: 0,0:06:23.56,0:06:25.90,Default,,0,0,0,,Thấy sự tương đồng chứ?
 Dialogue: 0,0:06:26.10,0:06:28.12,Default,,0,0,0,,Đây gọi là "Bạt Đao Thuật"
 Dialogue: 0,0:06:28.12,0:06:30.24,Default,,0,0,0,,tức là thuật rút kiếm
@@ -155,7 +146,7 @@ Dialogue: 0,0:09:19.22,0:09:22.38,Default,,0,0,0,,ta cũng có thể đả thôn
 Dialogue: 0,0:09:23.88,0:09:27.10,Default,,0,0,0,,Kỳ thực đây chính là châm cứu,\Nnhưng dùng khí chứ không dùng kim
 Dialogue: 0,0:09:27.76,0:09:30.78,Default,,0,0,0,,luyện đến cực điểm\Nthậm chí có thể một đòn đánh chết người
 Dialogue: 0,0:09:30.78,0:09:33.79,Default,,0,0,0,,cũng chính là "Đả Tử Huyệt"\Ntrong truyền thuyết
-Dialogue: 0,0:09:37.84,0:09:41.50,Default,,0,0,0,,chiêu "Ngũ Điểm Chưởng Phá Tâm Thuật"\Ntrong {\i1}Kill Bill{\i0}
+Dialogue: 0,0:09:37.84,0:09:41.50,Default,,0,0,0,,Chiêu "Ngũ Điểm Chưởng Phá Tâm Thuật"\Ntrong {\i1}Kill Bill{\i0}
 Dialogue: 0,0:09:41.50,0:09:44.60,Default,,0,0,0,,bắt nguồn từ một bộ phim\Ncó vai đạo sĩ Bạch Mi gốc
 Dialogue: 0,0:09:44.62,0:09:47.07,Default,,0,0,0,,nhưng nó chả phải\Ntuyệt chiêu của đạo sĩ Bạch Mi
 Dialogue: 0,0:09:50.68,0:09:53.22,Default,,0,0,0,,ít nhất trong bản Tiếng Trung\Nkhông phải vậy
@@ -174,17 +165,17 @@ Dialogue: 0,0:10:34.46,0:10:37.88,Default,,0,0,0,,kể về câu chuyện của 
 Dialogue: 0,0:10:37.88,0:10:41.16,Default,,0,0,0,,bộ phim này là pha trộn đánh võ\Ncủa thời kỳ điện ảnh Thiệu Thị cổ xưa
 Dialogue: 0,0:10:41.26,0:10:45.15,Default,,0,0,0,,với hình ảnh và câu chuyện\Ncủa thời kỳ điện ảnh Thành Long mới mẻ
 Dialogue: 0,0:10:46.58,0:10:49.42,Default,,0,0,0,,KẾT LUẬN
-Dialogue: 0,0:10:49.42,0:10:52.56,Default,,0,0,0,,hy vọng những phim này có thể khiến bạn\Nnảy sinh hứng thú với điện ảnh châu Á
+Dialogue: 0,0:10:49.42,0:10:52.56,Default,,0,0,0,,Hy vọng những phim này có thể khiến bạn\Nnảy sinh hứng thú với điện ảnh châu Á
 Dialogue: 0,0:10:52.56,0:10:53.93,Default,,0,0,0,,cũng hy vọng những thông tin này
 Dialogue: 0,0:10:53.93,0:10:56.55,Default,,0,0,0,,có thể khiến việc xem phim châu Á\Ntrở nên dễ dàng hơn chút
-Dialogue: 0,0:11:00.36,0:11:03.40,Default,,0,0,0,,nhưng nếu như bạn vẫn cứ cảm thấy\Nnhững khái niệm văn hóa này quá khó hiểu
+Dialogue: 0,0:11:00.36,0:11:03.40,Default,,0,0,0,,Nhưng nếu như bạn vẫn cứ cảm thấy\Nnhững khái niệm văn hóa này quá khó hiểu
 Dialogue: 0,0:11:03.40,0:11:05.78,Default,,0,0,0,,vậy hãy cứ để bản thân\Nbối rối mà xem phim đi!
 Dialogue: 0,0:11:06.42,0:11:08.46,Default,,0,0,0,,coi như một chuyến đi du ngoạn vậy đó
 Dialogue: 0,0:11:09.08,0:11:11.92,Default,,0,0,0,,chưa biết gì thì mới lý thú chứ,\Nđúng không nào?
-Dialogue: 0,0:02:12.65,0:02:16.95,Overlay,,0,0,0,,{\pos(640,275)}Khinh Công
-Dialogue: 0,0:02:14.36,0:02:16.95,Overlay,,0,0,0,,{\fs36\pos(640,455)}Kỹ thuật để bản thân nhẹ đi
-Dialogue: 0,0:06:26.91,0:06:31.20,Overlay,,0,0,0,,{\pos(640,275)}Bạt Đao Thuật
-Dialogue: 0,0:06:28.62,0:06:31.20,Overlay,,0,0,0,,{\fs36\pos(640,455)}Kỹ thuật rút đao
-Dialogue: 0,0:09:56.03,0:10:00.66,Overlay,,0,0,0,,{\pos(640,275)}Bách Bộ Truy Hồn Chưởng
-Dialogue: 0,0:09:56.83,0:10:00.66,Overlay,,0,0,0,,{\fs36\pos(640,455)}Chưởng Trăm Bước Trục Hồn
 Dialogue: 0,0:01:07.76,0:01:08.88,Overlay,,0,0,0,,{\pos(640,610)}(Đạo trường Nhật Bản)
+Dialogue: 0,0:02:12.65,0:02:16.95,Overlay,,0,0,0,,{\pos(640,275)}Khinh Công
+Dialogue: 0,0:02:14.36,0:02:16.95,Overlay,,0,0,0,,{\fs38\pos(640,455)}Kỹ thuật để bản thân nhẹ đi
+Dialogue: 0,0:06:26.91,0:06:31.20,Overlay,,0,0,0,,{\pos(640,275)}Bạt Đao Thuật
+Dialogue: 0,0:06:28.62,0:06:31.20,Overlay,,0,0,0,,{\fs38\pos(640,455)}Kỹ thuật rút đao
+Dialogue: 0,0:09:56.03,0:10:00.66,Overlay,,0,0,0,,{\pos(640,275)}Bách Bộ Truy Hồn Chưởng
+Dialogue: 0,0:09:56.83,0:10:00.66,Overlay,,0,0,0,,{\fs38\pos(640,455)}Chưởng Trăm Bước Trục Hồn

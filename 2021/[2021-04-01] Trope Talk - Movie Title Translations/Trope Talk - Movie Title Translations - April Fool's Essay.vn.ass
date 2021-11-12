@@ -10,20 +10,13 @@ PlayResX: 1280
 PlayResY: 720
 
 [Aegisub Project Garbage]
-Last Style Storage: Youtube
-Audio File: Trope Talk - Movie Title Translations - April Fool's Essay.mp4
-Video File: Trope Talk - Movie Title Translations - April Fool's Essay.mp4
-Video AR Mode: 4
-Video AR Value: 1.777778
-Video Zoom Percent: 0.875000
-Scroll Position: 354
-Active Line: 359
-Video Position: 15483
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Roboto,38,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,3,2,2,2,10,10,10,1
-Style: Overlay,Roboto,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,5,10,10,10,1
+Style: Default,Roboto,38,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Overlay,Roboto,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,5,10,10,10,1
+Style: Overlay 2,Roboto,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
+Style: Overlay 3,Roboto,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,5,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -311,83 +304,84 @@ Dialogue: 0,0:11:20.77,0:11:23.10,Default,,0,0,0,,Gần đây bạn có bao gi�
 Dialogue: 0,0:11:23.10,0:11:24.10,Default,,0,0,0,,lần sau chú ý thử nhé
 Dialogue: 0,0:11:24.10,0:11:26.68,Default,,0,0,0,,thấy được cái hàm nghĩa đằng sau\Ncó khi sẽ làm bạn kinh ngạc đấy
 Dialogue: 0,0:11:26.68,0:11:28.31,Default,,0,0,0,,Vậy… nhé.
-Dialogue: 0,0:00:07.77,0:00:13.52,Overlay,,0,0,0,,{\an6\fs36\pos(250,285)}Ở TEXAS
+Dialogue: 0,0:00:07.77,0:00:13.52,Overlay,,0,0,0,,{\an6\fs36\pos(255,285)}Ở TEXAS
 Dialogue: 0,0:00:08.44,0:00:13.52,Overlay,,0,0,0,,{\an6\fs36\pos(440,285)}CƯA MÁY
-Dialogue: 0,0:00:09.98,0:00:11.06,Overlay,,0,0,0,,{\an6\fs36\pos(655,285)}VỤ THẢM SÁT
-Dialogue: 0,0:00:11.06,0:00:13.52,Overlay,,0,0,0,,{\an6\fs36\pos(632,285)}VỤ ĐỒ SÁT
+Dialogue: 0,0:00:09.98,0:00:11.06,Overlay,,0,0,0,,{\an6\fs36\pos(659,285)}VỤ THẢM SÁT
+Dialogue: 0,0:00:11.06,0:00:13.52,Overlay,,0,0,0,,{\an6\fs36\pos(636,285)}VỤ ĐỒ SÁT
 Dialogue: 0,0:00:13.52,0:00:14.48,Overlay,,0,0,0,,{\an6\fs36\pos(420,80)}Thảm sát Nam Kinh
-Dialogue: 0,0:00:17.27,0:00:20.15,Overlay,,0,0,0,,{\an6\fs36\pos(605,285)}Ở TEXAS
-Dialogue: 0,0:00:17.60,0:00:20.15,Overlay,,0,0,0,,{\an6\fs36\pos(475,285)}CƯA MÁY
-Dialogue: 0,0:00:18.23,0:00:20.15,Overlay,,0,0,0,,{\an6\fs36\pos(333,285)}CUỒNG SÁT
+Dialogue: 0,0:00:17.27,0:00:20.15,Overlay,,0,0,0,,{\an6\fs36\pos(630,285)}Ở TEXAS
+Dialogue: 0,0:00:17.60,0:00:20.15,Overlay,,0,0,0,,{\an6\fs36\pos(490,285)}CƯA MÁY
+Dialogue: 0,0:00:18.23,0:00:20.15,Overlay,,0,0,0,,{\an6\fs36\pos(340,285)}CUỒNG SÁT
 Dialogue: 0,0:00:18.77,0:00:20.15,Overlay,,0,0,0,,{\an6\fs36\pos(158,285)}KẺ
-Dialogue: 0,0:00:37.31,0:00:40.40,Overlay,,0,0,0,,{\an6\fs36\pos(625,128)}Công Viên Kỷ Jura
-Dialogue: 0,0:00:40.40,0:00:43.90,Overlay,,0,0,0,,{\an6\fs36\pos(620,128)}Câu Lạc Bộ Đánh Lộn
-Dialogue: 0,0:00:40.40,0:00:43.90,Overlay,,0,0,0,,{\an6\fs36\pos(530,217)}Hội Đánh Lộn
-Dialogue: 0,0:00:40.40,0:00:43.90,Overlay,,0,0,0,,{\an6\fs36\pos(645,309)}Câu Lạc Bộ Đấu Trận
-Dialogue: 0,0:00:43.90,0:00:49.98,Overlay,,0,0,0,,{\an6\fs36\pos(620,88)}Kỳ Duyên Hái Vàng
-Dialogue: 0,0:00:43.90,0:00:49.98,Overlay,,0,0,0,,{\an5\fs36\pos(585,197)}Bạn Trai Siêu Giàu\NCủa Tôi
-Dialogue: 0,0:00:43.90,0:00:49.98,Overlay,,0,0,0,,{\an6\fs36\pos(685,290)}Phú Hào Điên Rồ\NCủa Á Châu
-Dialogue: 0,0:00:57.65,0:01:01.15,Overlay,,0,0,0,,{\an6\fs36\pos(515,255)}Trở Về Tương Lai
-Dialogue: 0,0:01:01.15,0:01:03.52,Overlay,,0,0,0,,{\an6\fs36\pos(535,255)}Đại Chiến Tinh Cầu
-Dialogue: 0,0:01:03.52,0:01:07.31,Overlay,,0,0,0,,{\an6\fs36\pos(575,255)}Liên Minh Kẻ Báo Thù
-Dialogue: 0,0:01:11.40,0:01:16.81,Overlay,,0,0,0,,{\an6\fs36\pos(610,135)}Hãi Giọng Kêu Thét
-Dialogue: 0,0:01:27.52,0:01:30.44,Overlay,,0,0,0,,{\an6\fs36\pos(540,300)}Tiếng La Chết Chóc
-Dialogue: 0,0:01:30.44,0:01:31.73,Overlay,,0,0,0,,{\an6\fs36\pos(540,300)}Cuộc Gọi Chết Chóc
-Dialogue: 0,0:01:37.06,0:01:40.94,Overlay,,0,0,0,,{\an6\fs36\pos(588,250)}Thế Giới Dị Tưởng Của Amélie
-Dialogue: 0,0:01:43.60,0:01:47.56,Overlay,,0,0,0,,{\an6\fs36\pos(428,264)}Ái Mỹ Lệ
-Dialogue: 0,0:01:47.56,0:01:50.60,Overlay,,0,0,0,,{\an6\fs36\pos(428,264)}Thiên Sứ Ái Mỹ Lệ
-Dialogue: 0,0:02:08.44,0:02:11.40,Overlay,,0,0,0,,{\an6\fs36\pos(498,254)}Tốc Độ Và Nồng Cháy
-Dialogue: 0,0:02:12.02,0:02:14.65,Overlay,,0,0,0,,{\an6\fs36\pos(558,262)}Nồng Nàn Tình Sắc
-Dialogue: 0,0:02:40.02,0:02:47.31,Overlay,,0,0,0,,{\an6\fs36\pos(512,255)}Tiểu Thuyết Tầm Phào
-Dialogue: 0,0:02:47.31,0:02:50.40,Overlay,,0,0,0,,{\an6\fs36\pos(488,255)}Nhân Vật Nguy Hiểm
-Dialogue: 0,0:03:01.85,0:03:04.60,Overlay,,0,0,0,,{\an6\fs36\pos(650,138}Nhân Vật Nguy Hiểm
-Dialogue: 0,0:03:01.85,0:03:04.60,Overlay,,0,0,0,,{\an6\fs36\pos(610,250)}Lệnh Truy Bắt\NMàu Đen
-Dialogue: 0,0:03:19.35,0:03:25.85,Overlay,,0,0,0,,{\an6\fs36\pos(488,255)}Khởi Động Toàn Diện
-Dialogue: 0,0:03:26.69,0:03:30.15,Overlay,,0,0,0,,{\an6\fs36\pos(428,255)}Cõi Cắp Giấc Mơ
-Dialogue: 0,0:03:30.15,0:03:34.23,Overlay,,0,0,0,,{\an6\fs36\pos(459,255)}Chìm Vào Chốn Dữ
-Dialogue: 0,0:03:43.85,0:03:47.56,Overlay,,0,0,0,,{\an6\fs36\pos(579,137)}Đế Quốc Hacker
-Dialogue: 0,0:03:47.56,0:03:53.69,Overlay,,0,0,0,,{\an6\fs36\pos(621,253)}Mạng Lưới Sát Nhân Thế Kỷ 22
-Dialogue: 0,0:04:03.69,0:04:04.90,Overlay,,0,0,0,,{\an6\fs36\pos(531,253)}Thế Giới Của Truman
-Dialogue: 0,0:04:05.90,0:04:07.23,Overlay,,0,0,0,,{\an6\fs36\pos(400,253)}Show Thực Tế
-Dialogue: 0,0:04:14.02,0:04:15.40,Overlay,,0,0,0,,{\an6\fs36\pos(380,282)}Thật
-Dialogue: 0,0:04:14.27,0:04:15.40,Overlay,,0,0,0,,{\an6\fs36\pos(311,282)}Người
-Dialogue: 0,0:04:26.98,0:04:28.90,Overlay,,0,0,0,,{\an4\pos(270,195)}Nàng
-Dialogue: 0,0:04:28.90,0:04:30.65,Overlay,,0,0,0,,{\an4\fs36\pos(205,255)}Chạm Không Nổi Tới Nàng
-Dialogue: 0,0:04:33.35,0:04:37.23,Overlay,,0,0,0,,{\an6\fs36\pos(491,253)}Người Tình Đám Mây
-Dialogue: 0,0:04:49.94,0:04:52.77,Overlay,,0,0,0,,{\an4\fs36\pos(350,135)}Bọn Khốn Vô Sỉ
-Dialogue: 0,0:04:49.94,0:04:52.77,Overlay,,0,0,0,,{\an4\fs36\pos(375,225)}Đặc Vụ Ác Ôn
-Dialogue: 0,0:04:56.60,0:05:00.48,Overlay,,0,0,0,,{\an6\fs36\pos(327,265)}Quỷ Hitler
-Dialogue: 0,0:04:57.56,0:05:00.48,Overlay,,0,0,0,,{\an6\fs36\pos(643,265)}Đụng Độ Kẻ Cuồng Sát
-Dialogue: 0,0:05:23.90,0:05:25.85,Overlay,,0,0,0,,{\an6\fs36\pos(473,255)}Gián Điệp Trong Đĩa
-Dialogue: 0,0:05:36.69,0:05:41.31,Overlay,,0,0,0,,{\an4\fs36\pos(200,255)}Chiến Binh Tương Lai
-Dialogue: 0,0:05:57.77,0:06:00.23,Overlay,,0,0,0,,{\an6\fs36\pos(508,255)}Tình Nối Phố Bên Biển
-Dialogue: 0,0:06:12.65,0:06:17.35,Overlay,,0,0,0,,{\an6\fs36\pos(468,255)}Tiếp Xúc Tương Lai
-Dialogue: 0,0:06:23.44,0:06:26.48,Overlay,,0,0,0,,{\an6\fs36\pos(590,265)}Tiếp Xúc Vượt Thời-Không
-Dialogue: 0,0:06:46.06,0:06:49.69,Overlay,,0,0,0,,{\an6\fs36\pos(645,255)}Một Cây Hoa Lê Đè Đóa Hải Đường
-Dialogue: 0,0:06:49.69,0:06:54.73,Overlay,,0,0,0,,{\an6\fs33\pos(400,80)}Cây Hoa Lê
-Dialogue: 0,0:06:50.69,0:06:54.73,Overlay,,0,0,0,,{\an6\fs33\pos(320,135)}Đóa Hải Đường
-Dialogue: 0,0:07:04.73,0:07:09.94,Overlay,,0,0,0,,{\an6\fs36\pos(420,255)}Lưỡi Dao Lòi Vỏ
-Dialogue: 0,0:07:09.94,0:07:14.77,Overlay,,0,0,0,,{\an6\fs36\pos(400,255)}Dao Xoay Lối Rẽ
-Dialogue: 0,0:07:30.60,0:07:34.48,Overlay,,0,0,0,,{\an6\fs36\pos(475,258)}Gió Rồng Cuộn
-Dialogue: 0,0:07:34.48,0:07:36.69,Overlay,,0,0,0,,{\an6\fs36\pos(555,135)}Gió Cá Mập Cuộn
-Dialogue: 0,0:07:34.48,0:07:36.69,Overlay,,0,0,0,,{\an6\fs36\pos(601,224)}Cá Mập Rồng Cuộn
-Dialogue: 0,0:07:44.98,0:07:49.15,Overlay,,0,0,0,,{\an6\fs36\pos(420,255)}Cá Mập Gió Bay
-Dialogue: 0,0:07:57.06,0:07:59.94,Overlay,,0,0,0,,{\an6\fs36\pos(498,255)}Tầm Mộng Chu Du Ký
-Dialogue: 0,0:07:59.94,0:08:04.23,Overlay,,0,0,0,,{\an6\fs36\pos(466,255)}Hộp Đêm Của Coco
-Dialogue: 0,0:08:28.44,0:08:30.10,Overlay,,0,0,0,,{\an6\fs36\pos(448,255)}Triệu Lẻ Một Đêm
-Dialogue: 0,0:09:04.44,0:09:10.31,Overlay,,0,0,0,,{\an6\fs36\pos(438,255)}Thời Tốc Sinh Tử
-Dialogue: 0,0:09:15.65,0:09:16.65,Overlay,,0,0,0,,{\an6\fs36\pos(418,255)}Chiến Sĩ Bảo Vệ
-Dialogue: 0,0:09:17.56,0:09:18.69,Overlay,,0,0,0,,{\an6\fs36\pos(438,255)}Nhiệm Vụ Bảo Vệ
-Dialogue: 0,0:09:25.35,0:09:27.90,Overlay,,0,0,0,,{\an6\fs36\pos(425,255)}Kích Thích 1995
-Dialogue: 0,0:09:40.73,0:09:42.81,Overlay,,0,0,0,,{\an6\fs36\pos(348,255)}Kích Thích
-Dialogue: 0,0:09:58.90,0:09:59.98,Overlay,,0,0,0,,{\an6\fs36\pos(378,255)}Quỷ Hủy Diệt
-Dialogue: 0,0:09:59.98,0:10:01.15,Overlay,,0,0,0,,{\an6\fs36\pos(376,255)}Quỷ Tư Lệnh
-Dialogue: 0,0:10:01.15,0:10:02.94,Overlay,,0,0,0,,{\an6\fs36\pos(632,255)}Quỷ Đại Đế: Lời Nói Dối Chân Thật
-Dialogue: 0,0:10:02.94,0:10:04.31,Overlay,,0,0,0,,{\an6\fs36\pos(362,255)}Quỷ Đời Hai
-Dialogue: 0,0:10:11.06,0:10:12.06,Overlay,,0,0,0,,{\an6\fs36\pos(536,255)}Đồ Chơi Tổng Động Viên
-Dialogue: 0,0:10:12.06,0:10:13.06,Overlay,,0,0,0,,{\an6\fs36\pos(550,255)}Đáy Biển Tổng Động Viên
-Dialogue: 0,0:10:13.06,0:10:14.52,Overlay,,0,0,0,,{\an6\fs36\pos(526,255)}Xe Đua Tổng Động Viên
-Dialogue: 0,0:10:14.52,0:10:18.10,Overlay,,0,0,0,,{\an6\fs36\pos(568,255)}Siêu Nhân Tổng Động Viên
-Dialogue: 0,0:10:26.90,0:10:28.60,Overlay,,0,0,0,,{\an6\fs36\pos(510,255)}Lệnh Truy Bắt Ngòi Nổ
-Dialogue: 0,0:10:35.52,0:10:37.98,Overlay,,0,0,0,,{\an6\fs36\pos(390,264)}Kiếp Bất Tử
-Dialogue: 0,0:10:45.10,0:10:48.52,Overlay,,0,0,0,,{\an6\fs36\pos(456,255)}Kinh Tim Động Vía
+Dialogue: 0,0:00:37.31,0:00:40.40,Overlay 2,,0,0,0,,{\an6\fs36\pos(625,128)}Công Viên Kỷ Jura
+Dialogue: 0,0:00:40.40,0:00:43.90,Overlay 2,,0,0,0,,{\an6\fs36\pos(635,128)}Câu Lạc Bộ Đánh Lộn
+Dialogue: 0,0:00:40.40,0:00:43.90,Overlay 2,,0,0,0,,{\an6\fs36\pos(540,217)}Hội Đánh Lộn
+Dialogue: 0,0:00:40.40,0:00:43.90,Overlay 2,,0,0,0,,{\an6\fs36\pos(655,309)}Câu Lạc Bộ Đấu Trận
+Dialogue: 0,0:00:43.90,0:00:49.98,Overlay 2,,0,0,0,,{\an6\fs36\pos(620,88)}Kỳ Duyên Hái Vàng
+Dialogue: 0,0:00:43.90,0:00:49.98,Overlay 3,,0,0,0,,{\an5\fs36\pos(585,197)}Bạn Trai Siêu Giàu\NCủa Tôi
+Dialogue: 0,0:00:43.90,0:00:49.98,Overlay 3,,0,0,0,,{\an5\fs36\pos(585,290)}Phú Hào Á Châu\NĐiên rồ
+Dialogue: 0,0:00:57.65,0:01:01.15,Overlay 2,,0,0,0,,{\an6\fs36\pos(515,255)}Trở Về Tương Lai
+Dialogue: 0,0:01:01.15,0:01:03.52,Overlay 2,,0,0,0,,{\an6\fs36\pos(540,255)}Đại Chiến Tinh Cầu
+Dialogue: 0,0:01:03.52,0:01:07.31,Overlay 2,,0,0,0,,{\an6\fs36\pos(575,255)}Liên Minh Kẻ Báo Thù
+Dialogue: 0,0:01:11.40,0:01:16.81,Overlay 2,,0,0,0,,{\an6\fs36\pos(610,135)}Hãi Giọng Kêu Thét
+Dialogue: 0,0:01:27.52,0:01:30.44,Overlay 2,,0,0,0,,{\an6\fs40\pos(540,300)}Tiếng La Chết Chóc
+Dialogue: 0,0:01:30.44,0:01:31.73,Overlay 2,,0,0,0,,{\an6\fs40\pos(540,300)}Cuộc Gọi Chết Chóc
+Dialogue: 0,0:01:37.06,0:01:40.94,Overlay 2,,0,0,0,,{\an6\fs36\pos(588,250)}Thế Giới Dị Tưởng Của Amélie
+Dialogue: 0,0:01:43.60,0:01:47.56,Overlay 2,,0,0,0,,{\an6\fs36\pos(428,264)}Ái Mỹ Lệ
+Dialogue: 0,0:01:47.56,0:01:50.60,Overlay 2,,0,0,0,,{\an6\fs36\pos(428,264)}Thiên Sứ Ái Mỹ Lệ
+Dialogue: 0,0:02:08.44,0:02:11.40,Overlay 2,,0,0,0,,{\an6\fs36\pos(500,254)}Tốc Độ Và Nồng Cháy
+Dialogue: 0,0:02:12.02,0:02:14.65,Overlay 2,,0,0,0,,{\an6\fs36\pos(558,262)}Nồng Nàn Tình Sắc
+Dialogue: 0,0:02:40.02,0:02:47.31,Overlay 2,,0,0,0,,{\an6\fs36\pos(512,255)}Tiểu Thuyết Tầm Phào
+Dialogue: 0,0:02:47.31,0:02:50.40,Overlay 2,,0,0,0,,{\an6\fs36\pos(488,255)}Nhân Vật Nguy Hiểm
+Dialogue: 0,0:03:01.85,0:03:04.60,Overlay 2,,0,0,0,,{\an6\fs36\pos(660,138}Nhân Vật Nguy Hiểm
+Dialogue: 0,0:03:01.85,0:03:04.60,Overlay 2,,0,0,0,,{\an6\fs36\pos(610,250)}Lệnh Truy Bắt\NMàu Đen
+Dialogue: 0,0:03:19.35,0:03:25.85,Overlay 2,,0,0,0,,{\an6\fs36\pos(488,255)}Khởi Động Toàn Diện
+Dialogue: 0,0:03:26.69,0:03:30.15,Overlay 2,,0,0,0,,{\an6\fs36\pos(428,255)}Cõi Cắp Giấc Mơ
+Dialogue: 0,0:03:30.15,0:03:34.23,Overlay 2,,0,0,0,,{\an6\fs36\pos(469,255)}Chìm Vào Chốn Dữ
+Dialogue: 0,0:03:43.85,0:03:47.56,Overlay 2,,0,0,0,,{\an6\fs36\pos(589,137)}Đế Quốc Hacker
+Dialogue: 0,0:03:47.56,0:03:53.69,Overlay 2,,0,0,0,,{\an6\fs36\pos(630,253)}Mạng Lưới Sát Nhân Thế Kỷ 22
+Dialogue: 0,0:04:03.69,0:04:04.90,Overlay 2,,0,0,0,,{\an6\fs36\pos(531,253)}Thế Giới Của Truman
+Dialogue: 0,0:04:05.90,0:04:07.23,Overlay 2,,0,0,0,,{\an6\fs36\pos(400,253)}Show Thực Tế
+Dialogue: 0,0:04:14.02,0:04:15.40,Overlay 2,,0,0,0,,{\an6\fs36\pos(380,282)}Thật
+Dialogue: 0,0:04:14.27,0:04:15.40,Overlay 2,,0,0,0,,{\an6\fs36\pos(311,282)}Người
+Dialogue: 0,0:04:26.98,0:04:28.90,Overlay 2,,0,0,0,,{\an6\pos(380,195)}Nàng
+Dialogue: 0,0:04:28.90,0:04:30.65,Overlay 2,,0,0,0,,{\an6\fs36\pos(570,255)}Chạm Không Nổi Tới Nàng
+Dialogue: 0,0:04:33.35,0:04:37.23,Overlay 2,,0,0,0,,{\an6\fs36\pos(491,253)}Người Tình Đám Mây
+Dialogue: 0,0:04:49.94,0:04:52.77,Overlay 2,,0,0,0,,{\an6\fs36\pos(570,135)}Bọn Khốn Vô Sỉ
+Dialogue: 0,0:04:49.94,0:04:52.77,Overlay 2,,0,0,0,,{\an6\fs36\pos(575,225)}Đặc Vụ Ác Ôn
+Dialogue: 0,0:04:56.60,0:05:00.48,Overlay 2,,0,0,0,,{\an6\fs36\pos(327,265)}Quỷ Hitler
+Dialogue: 0,0:04:57.56,0:05:00.48,Overlay 2,,0,0,0,,{\an6\fs36\pos(653,265)}Đụng Độ Kẻ Cuồng Sát
+Dialogue: 0,0:05:23.90,0:05:25.85,Overlay 2,,0,0,0,,{\an6\fs36\pos(483,255)}Gián Điệp Trong Đĩa
+Dialogue: 0,0:05:36.69,0:05:41.31,Overlay 2,,0,0,0,,{\an6\fs36\pos(490,255)}Chiến Binh Tương Lai
+Dialogue: 0,0:05:57.77,0:06:00.23,Overlay 2,,0,0,0,,{\an6\fs36\pos(508,255)}Tình Nối Phố Bên Biển
+Dialogue: 0,0:06:12.65,0:06:17.35,Overlay 2,,0,0,0,,{\an6\fs36\pos(468,255)}Tiếp Xúc Tương Lai
+Dialogue: 0,0:06:23.44,0:06:26.48,Overlay 2,,0,0,0,,{\an6\fs36\pos(590,265)}Tiếp Xúc Vượt Thời-Không
+Dialogue: 0,0:06:46.06,0:06:49.69,Overlay 2,,0,0,0,,{\an6\fs36\pos(655,255)}Một Cây Hoa Lê Đè Đóa Hải Đường
+Dialogue: 0,0:06:49.69,0:06:54.73,Overlay 2,,0,0,0,,{\an6\fs33\pos(410,80)}Cây Hoa Lê
+Dialogue: 0,0:06:50.69,0:06:54.73,Overlay 2,,0,0,0,,{\an6\fs33\pos(330,135)}Đóa Hải Đường
+Dialogue: 0,0:07:04.73,0:07:09.94,Overlay 2,,0,0,0,,{\an6\fs36\pos(430,255)}Lưỡi Dao Lòi Vỏ
+Dialogue: 0,0:07:09.94,0:07:14.77,Overlay 2,,0,0,0,,{\an6\fs36\pos(410,255)}Dao Xoay Lối Rẽ
+Dialogue: 0,0:07:30.60,0:07:34.48,Overlay 2,,0,0,0,,{\an6\fs36\pos(475,258)}Gió Rồng Cuộn
+Dialogue: 0,0:07:34.48,0:07:36.69,Overlay 2,,0,0,0,,{\an6\fs36\pos(565,135)}Gió Cá Mập Cuộn
+Dialogue: 0,0:07:34.48,0:07:36.69,Overlay 2,,0,0,0,,{\an6\fs36\pos(611,224)}Cá Mập Rồng Cuộn
+Dialogue: 0,0:07:44.98,0:07:49.15,Overlay 3,,0,0,0,,{\an6\fs36\pos(430,255)}Cá Mập Gió Bay
+Dialogue: 0,0:07:57.06,0:07:59.94,Overlay 2,,0,0,0,,{\an6\fs36\pos(508,255)}Tầm Mộng Chu Du Ký
+Dialogue: 0,0:07:59.94,0:08:04.23,Overlay 2,,0,0,0,,{\an6\fs36\pos(476,255)}Hộp Đêm Của Coco
+Dialogue: 0,0:08:28.44,0:08:30.10,Overlay 2,,0,0,0,,{\an6\fs36\pos(458,255)}Triệu Lẻ Một Đêm
+Dialogue: 0,0:09:04.44,0:09:10.31,Overlay 2,,0,0,0,,{\an6\fs36\pos(438,255)}Thời Tốc Sinh Tử
+Dialogue: 0,0:09:13.94,0:09:14.94,Overlay 2,,0,0,0,,{\an6\fs36\pos(468,255)}Chiến Cảnh Bảo Vệ
+Dialogue: 0,0:09:15.65,0:09:16.65,Overlay 2,,0,0,0,,{\an6\fs36\pos(428,255)}Chiến Sĩ Bảo Vệ
+Dialogue: 0,0:09:17.56,0:09:18.69,Overlay 2,,0,0,0,,{\an6\fs36\pos(438,255)}Nhiệm Vụ Bảo Vệ
+Dialogue: 0,0:09:25.35,0:09:27.90,Overlay 2,,0,0,0,,{\an6\fs36\pos(425,255)}Kích Thích 1995
+Dialogue: 0,0:09:40.73,0:09:42.81,Overlay 2,,0,0,0,,{\an6\fs36\pos(358,255)}Kích Thích
+Dialogue: 0,0:09:58.90,0:09:59.98,Overlay 2,,0,0,0,,{\an6\fs36\pos(378,255)}Quỷ Hủy Diệt
+Dialogue: 0,0:09:59.98,0:10:01.15,Overlay 2,,0,0,0,,{\an6\fs36\pos(376,255)}Quỷ Tư Lệnh
+Dialogue: 0,0:10:01.15,0:10:02.94,Overlay 2,,0,0,0,,{\an6\fs36\pos(642,255)}Quỷ Đại Đế: Lời Nói Dối Chân Thật
+Dialogue: 0,0:10:02.94,0:10:04.31,Overlay 2,,0,0,0,,{\an6\fs36\pos(372,255)}Quỷ Đời Hai
+Dialogue: 0,0:10:11.06,0:10:12.06,Overlay 2,,0,0,0,,{\an6\fs36\pos(536,255)}Đồ Chơi Tổng Động Viên
+Dialogue: 0,0:10:12.06,0:10:13.06,Overlay 2,,0,0,0,,{\an6\fs36\pos(550,255)}Đáy Biển Tổng Động Viên
+Dialogue: 0,0:10:13.06,0:10:14.52,Overlay 2,,0,0,0,,{\an6\fs36\pos(526,255)}Xe Đua Tổng Động Viên
+Dialogue: 0,0:10:14.52,0:10:18.10,Overlay 2,,0,0,0,,{\an6\fs36\pos(568,255)}Siêu Nhân Tổng Động Viên
+Dialogue: 0,0:10:26.90,0:10:28.60,Overlay 2,,0,0,0,,{\an6\fs36\pos(520,255)}Lệnh Truy Bắt Ngòi Nổ
+Dialogue: 0,0:10:35.52,0:10:37.98,Overlay 2,,0,0,0,,{\an6\fs36\pos(390,264)}Kiếp Bất Tử
+Dialogue: 0,0:10:45.10,0:10:48.52,Overlay 2,,0,0,0,,{\an6\fs36\pos(456,255)}Kinh Tim Động Vía
