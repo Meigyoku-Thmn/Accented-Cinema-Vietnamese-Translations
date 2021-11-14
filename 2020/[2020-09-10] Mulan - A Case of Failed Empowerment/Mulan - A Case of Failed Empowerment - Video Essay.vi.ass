@@ -10,6 +10,14 @@ PlayResX: 1280
 PlayResY: 720
 
 [Aegisub Project Garbage]
+Audio File: Mulan - A Case of Failed Empowerment - Video Essay.mp4
+Video File: Mulan - A Case of Failed Empowerment - Video Essay.mp4
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.625000
+Scroll Position: 360
+Active Line: 369
+Video Position: 26105
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -387,4 +395,5 @@ Dialogue: 0,0:17:52.36,0:17:55.15,Default,,0,0,0,,Nam nữ trông có thể khá
 Dialogue: 0,0:17:55.15,0:17:57.43,Default,,0,0,0,,Nhưng khi cùng nhau chung sống
 Dialogue: 0,0:17:57.43,0:17:59.91,Default,,0,0,0,,và khi kề vai chiến đấu
 Dialogue: 0,0:18:00.26,0:18:03.43,Default,,0,0,0,,thì khác biệt nam nữ có còn khác biệt gì?
+Dialogue: 0,0:18:04.35,0:18:07.73,Default,,0,0,0,,Translated by Meigyoku Thmn
 Dialogue: 0,0:13:16.60,0:13:17.69,Overlay,,0,0,0,,{\pos(640,545)\fs54}Quanh quẩn với cái cổ hủ
