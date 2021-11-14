@@ -10,6 +10,14 @@ PlayResX: 1280
 PlayResY: 720
 
 [Aegisub Project Garbage]
+Audio File: Why are Chinese Swords not as Famous - Video Essay.mp4
+Video File: Why are Chinese Swords not as Famous - Video Essay.mp4
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.625000
+Scroll Position: 94
+Active Line: 102
+Video Position: 10780
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -120,6 +128,7 @@ Dialogue: 0,0:07:15.66,0:07:16.90,Default,,0,0,0,,Kim thêu hoa
 Dialogue: 0,0:07:17.34,0:07:19.80,Default,,0,0,0,,và bất cứ đồ gì\Nmà Thành Long thuận tay cầm lên
 Dialogue: 0,0:07:21.13,0:07:23.82,Default,,0,0,0,,Như này mới thú chứ
 Dialogue: 0,0:07:23.82,0:07:24.56,Default,,0,0,0,,không phải sao?
+Dialogue: 0,0:07:26.26,0:07:29.64,Default,,0,0,0,,Translated by Meigyoku Thmn
 Dialogue: 0,0:05:12.46,0:05:17.71,Overlay,,0,0,0,,{\pos(640,270)}Độc Cô Cầu Bại
 Dialogue: 0,0:05:13.42,0:05:17.71,Overlay,,0,0,0,,{\fs38\pos(640,455)}Nghĩa đen là "Độc thân cô đơn cầu mong bại trận"
 Dialogue: 0,0:05:19.17,0:05:25.85,Overlay,,0,0,0,,{\an6\fs35\pos(525,225)}Từ "Thần Điêu Hiệp Lữ"

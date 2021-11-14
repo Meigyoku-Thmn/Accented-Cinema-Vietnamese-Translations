@@ -10,6 +10,14 @@ PlayResX: 1280
 PlayResY: 720
 
 [Aegisub Project Garbage]
+Audio File: Posters of East Asia - Video Essay.mp4
+Video File: Posters of East Asia - Video Essay.mp4
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.625000
+Scroll Position: 341
+Active Line: 353
+Video Position: 22523
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -370,3 +378,4 @@ Dialogue: 0,0:15:24.49,0:15:26.10,Default,,0,0,0,,khi bạn đi qua một tấm
 Dialogue: 0,0:15:26.10,0:15:27.89,Default,,0,0,0,,hãy nhìn kĩ tí nhé
 Dialogue: 0,0:15:27.89,0:15:29.93,Default,,0,0,0,,những chi tiết trên tấm hình đó
 Dialogue: 0,0:15:29.93,0:15:32.66,Default,,0,0,0,,đều là tâm huyết của những nghệ gia cả đấy
+Dialogue: 0,0:15:36.40,0:15:38.48,Default,,0,0,0,,Translated by Meigyoku Thmn

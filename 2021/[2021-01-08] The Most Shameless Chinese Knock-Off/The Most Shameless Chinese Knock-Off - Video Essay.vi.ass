@@ -10,6 +10,14 @@ PlayResX: 1280
 PlayResY: 720
 
 [Aegisub Project Garbage]
+Audio File: The Most Shameless Chinese Knock-Off - Video Essay.mp4
+Video File: The Most Shameless Chinese Knock-Off - Video Essay.mp4
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.625000
+Scroll Position: 286
+Active Line: 293
+Video Position: 21259
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -311,6 +319,7 @@ Dialogue: 0,0:14:27.31,0:14:29.89,Default,,0,0,0,,Trung Quốc có thể tháo b
 Dialogue: 0,0:14:29.89,0:14:34.22,Default,,0,0,0,,và làm ra được những tác phẩm thực sự\Nđược mọi người yêu mến trên khắp thế giới
 Dialogue: 0,0:14:34.22,0:14:36.04,Default,,0,0,0,,Và mong rằng lần tới
 Dialogue: 0,0:14:36.04,0:14:39.37,Default,,0,0,0,,tác phẩm của họ không cần phải núp đằng sau\Nmột cái tên tiếng Nhật nữa
+Dialogue: 0,0:14:41.56,0:14:45.81,Default,,0,0,0,,Translated by Meigyoku Thmn
 Dialogue: 0,0:04:57.75,0:05:00.89,Left to right,,0,0,0,,{\k91\b1}TỰ MÌNH {\k84}SÁNG TẠO\N{\k26}NHÂN {\k23}VẬT {\k90}GỐC!{\b0}
 Dialogue: 0,0:08:22.96,0:08:23.98,Left to right,,0,0,0,,{\fs48}"Vui rộn mừng báo!"
 Dialogue: 0,0:08:23.98,0:08:27.49,Left to right,,0,0,0,,{\k29\fs48}"The {\k69}Autobots {\k79}Bị Phán {\k61}Xâm Phạm {\k113}Bản Quyền"

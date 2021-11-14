@@ -10,6 +10,14 @@ PlayResX: 1280
 PlayResY: 720
 
 [Aegisub Project Garbage]
+Audio File: Patriotism in Chinese Cinema - Video Essay.mp4
+Video File: Patriotism in Chinese Cinema - Video Essay.mp4
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.625000
+Scroll Position: 133
+Active Line: 142
+Video Position: 12914
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -159,3 +167,4 @@ Dialogue: 0,0:08:38.02,0:08:39.04,Default,,0,0,0,,"Đại soái!"
 Dialogue: 0,0:08:39.04,0:08:42.18,Default,,0,0,0,,"Pháo của chúng ta không tới nổi bọn nó ạ!"
 Dialogue: 0,0:08:42.18,0:08:44.78,Default,,0,0,0,,Và khi chúng tôi còn chưa kịp hoàn hồn thì
 Dialogue: 0,0:08:44.78,0:08:48.63,Default,,0,0,0,,tường thành Trung Quốc đã bị\Nhỏa pháo của thuyền Anh bắn tung mất rồi
+Dialogue: 0,0:08:55.26,0:08:58.64,Default,,0,0,0,,Translated by Meigyoku Thmn

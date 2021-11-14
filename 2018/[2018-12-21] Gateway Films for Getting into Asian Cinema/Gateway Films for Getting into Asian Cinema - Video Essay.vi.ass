@@ -10,6 +10,14 @@ PlayResX: 1280
 PlayResY: 720
 
 [Aegisub Project Garbage]
+Audio File: Gateway Films for Getting into Asian Cinema - Video Essay.mp4
+Video File: Gateway Films for Getting into Asian Cinema - Video Essay.mp4
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.625000
+Scroll Position: 148
+Active Line: 154
+Video Position: 16259
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -172,6 +180,7 @@ Dialogue: 0,0:11:00.36,0:11:03.40,Default,,0,0,0,,Nhưng nếu như bạn vẫn 
 Dialogue: 0,0:11:03.40,0:11:05.78,Default,,0,0,0,,vậy hãy cứ để bản thân\Nbối rối mà xem phim đi!
 Dialogue: 0,0:11:06.42,0:11:08.46,Default,,0,0,0,,coi như một chuyến đi du ngoạn vậy đó
 Dialogue: 0,0:11:09.08,0:11:11.92,Default,,0,0,0,,chưa biết gì thì mới lý thú chứ,\Nđúng không nào?
+Dialogue: 0,0:11:18.12,0:11:21.49,Default,,0,0,0,,Translated by Meigyoku Thmn
 Dialogue: 0,0:01:07.76,0:01:08.88,Overlay,,0,0,0,,{\pos(640,610)}(Đạo trường Nhật Bản)
 Dialogue: 0,0:02:12.65,0:02:16.95,Overlay,,0,0,0,,{\pos(640,275)}Khinh Công
 Dialogue: 0,0:02:14.36,0:02:16.95,Overlay,,0,0,0,,{\fs38\pos(640,455)}Kỹ thuật để bản thân nhẹ đi
