@@ -14,10 +14,10 @@ Audio File: The Most Shameless Chinese Knock-Off - Video Essay.mp4
 Video File: The Most Shameless Chinese Knock-Off - Video Essay.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Scroll Position: 286
-Active Line: 293
-Video Position: 21259
+Video Zoom Percent: 0.750000
+Scroll Position: 253
+Active Line: 254
+Video Position: 18031
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -280,7 +280,7 @@ Dialogue: 0,0:12:16.80,0:12:18.86,Default,,0,0,0,,Bởi vì vừa mới 9 ngày 
 Dialogue: 0,0:12:18.86,0:12:23.85,Default,,0,0,0,,Hơn 156 nhân viên truyền thông\Nđã chung tay ký một lá thư ngỏ,
 Dialogue: 0,0:12:23.85,0:12:26.55,Default,,0,0,0,,kêu gọi tẩy chay những kẻ đạo nhái
 Dialogue: 0,0:12:26.55,0:12:30.69,Default,,0,0,0,,trong bức thư có nêu đích danh\Nhai tên chết vằm này
-Dialogue: 0,0:12:31.28,0:12:36.39,Default,,0,0,0,,Chưa đến mấy ngày, Vu Chính liền bị cắt tên\Nkhỏi ch. trình tạp kỹ Tôi chính là diễn viên
+Dialogue: 0,0:12:31.28,0:12:36.39,Default,,0,0,0,,Chưa đến mấy ngày, Vu Chính liền bị cắt tên\Nkhỏi ch. trình tạp kỹ {\i1}Tôi chính là diễn viên{\i0}
 Dialogue: 0,0:12:36.39,0:12:39.69,Default,,0,0,0,,rồi chương trình mới do ông ta biên kịch\Ncũng bị hoãn vô kỳ hạn luôn
 Dialogue: 0,0:12:39.69,0:12:43.29,Default,,0,0,0,,Có vẻ như công lý\Ncuối cùng đã được thực thi
 Dialogue: 0,0:12:43.56,0:12:47.40,Default,,0,0,0,,Nhưng dưới phần bình luận người ta\Nchẳng thèm chấp nhận lời xin lỗi của họ
